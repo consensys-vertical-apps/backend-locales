@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Na-trigger ang take profit"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Naaprubahan ka!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "I-set up ang MetaMask Card mo ngayon at simulang kumita."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Update sa MetaMask Card"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Tingnan ang desisyon sa aplikasyon mo."
   }
 }

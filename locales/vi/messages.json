@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Đã kích hoạt chốt lời"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Bạn đã được phê duyệt!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Thiết lập Thẻ MetaMask của bạn ngay hôm nay và bắt đầu kiếm tiền."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Cập nhật về Thẻ MetaMask"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Xem quyết định về đơn đăng ký của bạn."
   }
 }

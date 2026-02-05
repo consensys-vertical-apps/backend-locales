@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Ενεργοποιήθηκε η λήψη κέρδους"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Η αίτησή σας εγκρίθηκε!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Ενεργοποιήστε σήμερα την MetaMask Card και ξεκινήστε να κερδίζετε."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Ενημέρωση για την MetaMask Card"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Δείτε την απόφαση της αίτησής σας."
   }
 }

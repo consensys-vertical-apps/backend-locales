@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "止盈已触发"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "您已通过审核！"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "立即设置您的 MetaMask 卡，开始赚取奖励。"
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "MetaMask 卡更新"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "查看您的申请结果。"
   }
 }

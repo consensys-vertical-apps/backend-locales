@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit terpicu"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Permohonan Anda disetujui!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Atur Kartu MetaMask Anda hari ini dan mulailah menghasilkan."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Pembaruan Kartu MetaMask"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Lihat keputusan permohonan Anda."
   }
 }
