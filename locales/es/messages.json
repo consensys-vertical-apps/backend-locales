@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Toma de ganancias activada"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "¡Tienes la aprobación!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Configura hoy mismo tu tarjeta MetaMask y comienza a ganar dinero."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Actualización sobre la tarjeta MetaMask"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Consulta la decisión sobre tu solicitud."
   }
 }

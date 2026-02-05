@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit déclenché"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Vous êtes approuvé !"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Configurez votre MetaMask Card aujourd’hui et commencez à gagner de l’argent."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Mise à jour MetaMask Card"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Consultez la décision concernant votre demande."
   }
 }

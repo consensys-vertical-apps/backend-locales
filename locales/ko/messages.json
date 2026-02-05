@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "익절 실행"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "승인되었습니다!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "오늘 MetaMask 카드를 설정하고 수익을 창출해 보세요."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "MetaMask 카드 업데이트"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "신청 결과를 확인해 보세요."
   }
 }

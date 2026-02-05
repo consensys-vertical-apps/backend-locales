@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Сработал тейк-профит"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Вы одобрены!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Оформите свою карту MetaMask уже сегодня и начните зарабатывать."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Новости о карте MetaMask"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Ознакомьтесь с решением по вашей заявке."
   }
 }

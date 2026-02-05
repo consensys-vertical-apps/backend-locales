@@ -114,5 +114,17 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "टेक प्रॉफ़िट ट्रिगर हो गया"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "आपको मंज़ूरी मिल गई है!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "आज ही अपना MetaMask कार्ड सेट अप करें और कमाना शुरू करें।"
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "MetaMask कार्ड अपडेट"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "अपने आवेदन का निर्णय देखें।"
   }
 }
