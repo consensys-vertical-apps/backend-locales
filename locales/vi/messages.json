@@ -114,5 +114,12 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Đã kích hoạt chốt lời"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX là HÔM NAY"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Ai sẽ thắng? Chọn người chiến thắng, nhận thanh toán bằng USDC. Dự đoán ngay."
   }
 }

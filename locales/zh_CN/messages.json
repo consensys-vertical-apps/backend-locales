@@ -114,5 +114,12 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "止盈已触发"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX 就在今天"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. 谁会赢得一切？选择获胜者，以 USDC 获得报酬。立即预测。"
   }
 }

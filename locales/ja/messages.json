@@ -114,5 +114,12 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "利益確定がトリガーされました"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LXは本日です"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. 誰が勝利するか？勝者を選んで、USDCで支払いを受け取ります。今すぐ予測してください。"
   }
 }

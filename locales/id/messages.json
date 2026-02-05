@@ -114,5 +114,12 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit terpicu"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX adalah HARI INI"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Siapa yang menang? Pilih pemenangnya, dapatkan pembayaran dalam USDC. Prediksi sekarang."
   }
 }

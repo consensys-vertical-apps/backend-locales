@@ -114,5 +114,12 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "टेक प्रॉफ़िट ट्रिगर हो गया"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX आज है"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. कौन जीतता है? विजेता चुनें, USDC में भुगतान प्राप्त करें। अभी भविष्यवाणी करें।"
   }
 }

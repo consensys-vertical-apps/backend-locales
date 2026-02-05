@@ -114,5 +114,12 @@
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit déclenché"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX est AUJOURD'HUI"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Qui remporte la victoire ? Choisissez le gagnant, recevez votre paiement en USDC. Prédisez maintenant."
   }
 }

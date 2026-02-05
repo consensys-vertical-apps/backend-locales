@@ -141,5 +141,12 @@
   },
   "pushNotificationShieldUpdatePaymentCta": {
     "message": "Update payment"
+  },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX is TODAY"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Who wins it all? Pick the winner, get paid in USDC. Predict now."
   }
 }
