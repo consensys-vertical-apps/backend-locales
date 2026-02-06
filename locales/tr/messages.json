@@ -115,6 +115,13 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Kazancı al tetiklendi"
   },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX BUGÜN"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Kim kazanacak? Kazananı seçin, USDC ile ödeme alın. Şimdi tahmin edin."
+  },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Onaylandınız!"
   },

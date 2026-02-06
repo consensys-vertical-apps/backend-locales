@@ -115,6 +115,13 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "익절 실행"
   },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX 는 오늘입니다"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. 누가 승리할까요? 승자를 선택하고 USDC로 지급받으세요. 지금 예측하세요."
+  },
   "pushNotificationCardKycCompletedTitle": {
     "message": "승인되었습니다!"
   },

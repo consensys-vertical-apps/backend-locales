@@ -115,6 +115,13 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Ενεργοποιήθηκε η λήψη κέρδους"
   },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX είναι ΣΗΜΕΡΑ"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Ποιος κερδίζει τα πάντα; Επιλέξτε τον νικητή, λάβετε την πληρωμή σε USDC. Προβλέψτε τώρα."
+  },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Η αίτησή σας εγκρίθηκε!"
   },

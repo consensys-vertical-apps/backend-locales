@@ -115,6 +115,13 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Сработал тейк-профит"
   },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX СЕГОДНЯ"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Кто выиграет все? Выберите победителя, получите оплату в USDC. Предскажите сейчас."
+  },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Вы одобрены!"
   },

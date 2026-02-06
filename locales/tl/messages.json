@@ -115,6 +115,13 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Na-trigger ang take profit"
   },
+
+  "pushNotificationPredictSuperBowlLXTitle": {
+    "message": "🏈 Super Bowl LX ay NGAYON"
+  },
+  "pushNotificationPredictSuperBowlLXDescriptionShort": {
+    "message": "Seahawks vs Patriots. Sino ang mananalo? Pumili ng panalo, makatanggap ng bayad sa USDC. Maghula ngayon."
+  },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Naaprubahan ka!"
   },
