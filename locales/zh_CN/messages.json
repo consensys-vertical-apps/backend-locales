@@ -121,5 +121,17 @@
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
     "message": "Seahawks vs Patriots. 谁会赢得一切？选择获胜者，以 USDC 获得报酬。立即预测。"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "您已通过审核！"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "立即设置您的 MetaMask 卡，开始赚取奖励。"
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "MetaMask 卡更新"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "查看您的申请结果。"
   }
 }

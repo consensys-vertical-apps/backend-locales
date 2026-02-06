@@ -121,5 +121,17 @@
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
     "message": "Seahawks vs Patriots. Siapa yang menang? Pilih pemenangnya, dapatkan pembayaran dalam USDC. Prediksi sekarang."
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Permohonan Anda disetujui!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Atur Kartu MetaMask Anda hari ini dan mulailah menghasilkan."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Pembaruan Kartu MetaMask"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Lihat keputusan permohonan Anda."
   }
 }

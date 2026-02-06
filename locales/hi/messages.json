@@ -121,5 +121,17 @@
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
     "message": "Seahawks vs Patriots. कौन जीतता है? विजेता चुनें, USDC में भुगतान प्राप्त करें। अभी भविष्यवाणी करें।"
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "आपको मंज़ूरी मिल गई है!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "आज ही अपना MetaMask कार्ड सेट अप करें और कमाना शुरू करें।"
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "MetaMask कार्ड अपडेट"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "अपने आवेदन का निर्णय देखें।"
   }
 }

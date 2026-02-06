@@ -121,5 +121,17 @@
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
     "message": "Seahawks vs Patriots. Kim kazanacak? Kazananı seçin, USDC ile ödeme alın. Şimdi tahmin edin."
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "Onaylandınız!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "MetaMask Kart kurulumunuzu bugün yapın ve kazanmaya başlayın."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "MetaMask Kart güncellemesi"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Başvurunuzun sonucunu görüntüleyin."
   }
 }

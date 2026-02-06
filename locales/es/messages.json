@@ -121,5 +121,17 @@
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
     "message": "Seahawks vs Patriots. ¿Quién gana todo? Elige al ganador, recibe el pago en USDC. Predice ahora."
+  },
+  "pushNotificationCardKycCompletedTitle": {
+    "message": "¡Tienes la aprobación!"
+  },
+  "pushNotificationCardKycCompletedDescription": {
+    "message": "Configura hoy mismo tu tarjeta MetaMask y comienza a ganar dinero."
+  },
+  "pushNotificationCardKycFailedTitle": {
+    "message": "Actualización sobre la tarjeta MetaMask"
+  },
+  "pushNotificationCardKycFailedDescription": {
+    "message": "Consulta la decisión sobre tu solicitud."
   }
 }
