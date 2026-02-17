@@ -48,7 +48,7 @@
     "message": "Withdrawal complete"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Your Lido withdrawal request is submitted."
+    "message": "Your Lido withdrawal request was submitted."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
     "message": "Withdrawal requested"
