@@ -3,19 +3,19 @@
     "message": "You received $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "You received tokens."
+    "message": "You received funds."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "Tokens received"
+    "message": "Funds received"
   },
   "pushPlatformNotificationsFundsSentDescription": {
     "message": "You sent $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "You sent tokens."
+    "message": "You sent funds."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "Tokens sent"
+    "message": "Funds sent"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
     "message": "You received new NFTs."
