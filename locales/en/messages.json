@@ -84,15 +84,15 @@
     "message": "Limit order filled"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Your $1 long position was liquidated.",
+    "message": "Your $1 long position was closed.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Your $1 short position was liquidated.",
+    "message": "Your $1 short position was closed.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Position liquidated"
+    "message": "Position closed"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
     "message": "Your $1 long closed at your stop loss.",
