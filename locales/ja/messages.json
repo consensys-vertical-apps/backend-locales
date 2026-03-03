@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "審査結果をご覧ください。"
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "MetaMaskカードのセットアップ"
   }
 }

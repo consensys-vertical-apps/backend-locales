@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Ознакомьтесь с решением по вашей заявке."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "Настройте свою карту MetaMask"
   }
 }

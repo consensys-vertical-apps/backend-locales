@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Tingnan ang desisyon sa aplikasyon mo."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "I-set up ang MetaMask Card mo"
   }
 }

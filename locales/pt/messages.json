@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Ver decisão sobre sua inscrição."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "Ative seu cartão MetaMask"
   }
 }
