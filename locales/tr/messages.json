@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Başvurunuzun sonucunu görüntüleyin."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "MetaMask Kart kurulumunuzu yapın"
   }
 }

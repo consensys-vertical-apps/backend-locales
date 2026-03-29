@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "अपने आवेदन का निर्णय देखें।"
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "अपना MetaMask कार्ड सेट अप करें"
   }
 }

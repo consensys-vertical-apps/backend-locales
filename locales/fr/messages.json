@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Consultez la décision concernant votre demande."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "Configurez votre MetaMask Card"
   }
 }

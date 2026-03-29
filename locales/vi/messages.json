@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Xem quyết định về đơn đăng ký của bạn."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "Thiết lập Thẻ MetaMask của bạn."
   }
 }

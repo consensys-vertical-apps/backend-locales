@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "查看您的申请结果。"
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "设置您的 MetaMask 卡"
   }
 }

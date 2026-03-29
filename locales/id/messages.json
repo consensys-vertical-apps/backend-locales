@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Lihat keputusan permohonan Anda."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "Atur Karu MetaMask Anda"
   }
 }

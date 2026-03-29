@@ -133,5 +133,8 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "신청 결과를 확인해 보세요."
+  },
+  "pushNotificationCardKycNotificationCtaText": {
+    "message": "MetaMask 카드 설정하기"
   }
 }
