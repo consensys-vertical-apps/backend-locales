@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Đã kích hoạt chốt lời"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX là HÔM NAY"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Xem quyết định về đơn đăng ký của bạn."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Đã gửi đến $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Đã nhận từ $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "Đã gửi NFT đến $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "Đã nhận được NFT từ $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "Đã hoán đổi $1 thành $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Đã ký gửi"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Hoàn tất hủy ký gửi"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Đã yêu cầu hủy ký gửi"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Đã yêu cầu rút tiền"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Yêu cầu hủy ký gửi $1 $2 của bạn đã được gửi"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Bây giờ bạn có thể rút $1 được hủy ký gửi"
   }
 }

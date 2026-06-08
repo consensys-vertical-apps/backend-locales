@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "टेक प्रॉफ़िट ट्रिगर हो गया"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX आज है"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "अपने आवेदन का निर्णय देखें।"
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "$1 पर भेजा गया"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "$1 से प्राप्त हुआ"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "NFT को $1 पर भेजा गया"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "NFT को $1 से प्राप्त किया गया"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "$1 को $2 के लिए स्वैप किया गया"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "स्टेक किया गया"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "अनस्टेकिंग पूरा हुआ"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "अनस्टेकिंग का अनुरोध किया गया"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "विदड्रॉवल का अनुरोध किया गया"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "$1 $2 को अनस्टेक करने का आपका अनुरोध भेज दिया गया है"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "अब आप अपना अनस्टेक्ड $1 वापस ले सकते हैं"
   }
 }

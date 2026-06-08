@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit acionado"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX é HOJE"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Ver decisão sobre sua inscrição."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Enviou para $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Recebido de $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "Enviou NFT para $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "Recebeu NFT de $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "Realizado swap de $1 por $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Em staking"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Retirada de staking concluída"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Retirada de staking solicitada"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Saque solicitado"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Sua solicitação para retirar $1 $2 do staking foi enviada"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Você já pode sacar seu $1 fora do staking"
   }
 }

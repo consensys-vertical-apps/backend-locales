@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Сработал тейк-профит"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX СЕГОДНЯ"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Ознакомьтесь с решением по вашей заявке."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Отправлено на $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Получено от $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "NFT отправлен на $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "NFT получен от $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "$1 обменян на $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "В стейкинге"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Отмена стейкинга завершена"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Запрошена отмена стейкинга"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Запрошен вывод средств"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Ваш запрос на отмену стейкинга $1 $2 отправлен"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Теперь вы можете вывести свои $1, стейкинг которых отменен"
   }
 }

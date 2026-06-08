@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Ενεργοποιήθηκε η λήψη κέρδους"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX είναι ΣΗΜΕΡΑ"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Δείτε την απόφαση της αίτησής σας."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Στάλθηκαν σε $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Λάβατε από $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "Εστάλη NFT σε $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "Ελήφθησαν NFT από $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "Ανταλλάξατε $1 για $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Ποντάρισμα"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Ολοκλήρωση ακύρωσης πονταρίσματος"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Αίτημα ακύρωσης πονταρίσματος"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Αίτημα ανάληψης"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Το αίτημά σας για ακύρωση πονταρίσματος $1 $2 έχει σταλεί"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Μπορείτε τώρα να αποσύρετε την ακύρωση πονταρίσματος $1"
   }
 }

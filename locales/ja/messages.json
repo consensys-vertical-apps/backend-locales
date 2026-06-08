@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "利益確定がトリガーされました"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LXは本日です"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "審査結果をご覧ください。"
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "$1に送りました"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "$1から受け取りました"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "$1にNFTを送りました"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "$1からNFTを受け取りました"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "$1を$2にスワップしました"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "ステーキング中"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "ステーキングの解除が完了しました"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "ステーキングの解除がリクエストされました"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "出金がリクエストされました"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "$1 $2のステーキングを解除するリクエストが送信されました"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "ステーキングが解除された$1を引き出せるようになりました"
   }
 }

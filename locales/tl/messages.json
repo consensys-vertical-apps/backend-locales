@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Na-trigger ang take profit"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX ay NGAYON"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Tingnan ang desisyon sa aplikasyon mo."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Ipinadala sa $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Natanggap mula sa $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "Ipinadala ang NFT sa $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "Natanggap ang NFT mula sa $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "Nai-swap ang $1 sa $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Naka-stake"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Nakumpleto ang pag-unstake"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Hiniling ang pag-unstake"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Hiniling ang pag-withdraw"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Ang iyong hiling na i-unstake ang $1 $2 ay naipadala na"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Maaari mo ng i-withdraw ang iyong in-unstake na $1"
   }
 }

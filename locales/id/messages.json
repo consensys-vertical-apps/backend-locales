@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit terpicu"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX adalah HARI INI"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Lihat keputusan permohonan Anda."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Dikirim ke $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Diterima dari $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "Mengirim NFT ke $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "Menerima NFT dari $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "Menukar $1 dengan $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Di-stake"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Pembatalan stake selesai"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Permintaan pembatalan stake"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Permintaan penarikan"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Permintaan Anda untuk membatalkan stake $1 $2 telah dikirim"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Kini Anda dapat menarik stake $1 yang dibatalkan"
   }
 }

@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Kazancı al tetiklendi"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX BUGÜN"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Başvurunuzun sonucunu görüntüleyin."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "$1 adresine gönderildi"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "$1 adresinden alındı"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "NFT alıcısı: $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "NFT gönderen: $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "$1 - $2 swap işlemi gerçekleştirildi"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Stake Edilen"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Unstake tamamlandı"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Unstake talep edildi"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Para çekme talep edildi"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "$1 $2 unstake talebiniz gönderildi"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "Şu anda unstake $1 çekebilirsiniz"
   }
 }

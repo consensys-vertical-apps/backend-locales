@@ -115,7 +115,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "止盈已触发"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX 就在今天"
   },
@@ -133,5 +132,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "查看您的申请结果。"
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "已发送至 $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "已从 $1 收到"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "已发送 NFT 至 $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "已从 $1 收到 NFT"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "已用 $1 兑换 $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "已质押"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "解除质押完成"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "已请求解除质押"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "已请求提取"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "您解除质押 $1 $2 的请求已发送"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "您现在可以提取已解除质押的 $1"
   }
 }

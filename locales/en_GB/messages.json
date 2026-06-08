@@ -142,7 +142,6 @@
   "pushNotificationShieldUpdatePaymentCta": {
     "message": "Update payment"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is TODAY"
   },
@@ -160,5 +159,38 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "View your application decision."
+  },
+  "inAppNotificationsFundsSentTitle": {
+    "message": "Sent to $1"
+  },
+  "inAppNotificationsFundsReceivedTitle": {
+    "message": "Received from $1"
+  },
+  "inAppNotificationsNftSentTitle": {
+    "message": "Sent NFT to $1"
+  },
+  "inAppNotificationsNftReceivedTitle": {
+    "message": "Received NFT from $1"
+  },
+  "inAppNotificationsSwapCompletedTitle": {
+    "message": "Swapped $1 for $2"
+  },
+  "inAppNotificationsStakedTitle": {
+    "message": "Staked"
+  },
+  "inAppNotificationsUnstakingCompleteTitle": {
+    "message": "Unstaking complete"
+  },
+  "inAppNotificationsUnstakingRequestedTitle": {
+    "message": "Unstaking requested"
+  },
+  "inAppNotificationsWithdrawalReadyTitle": {
+    "message": "Withdrawal requested"
+  },
+  "inAppNotificationsUnstakingRequestedDescription": {
+    "message": "Your request to unstake $1 $2 has been sent"
+  },
+  "inAppNotificationsWithdrawalReadyDescription": {
+    "message": "You can now withdraw your unstaked $1"
   }
 }
