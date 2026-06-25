@@ -165,5 +165,15 @@
   },
   "pushNotificationCardKycNotificationCtaText": {
     "message": "Set up your MetaMask Card"
+  },
+
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "You won the $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Open to see your results and how to claim your reward."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Claim reward"
   }
 }

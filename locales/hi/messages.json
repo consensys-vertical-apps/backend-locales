@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "अपने आवेदन का निर्णय देखें।"
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "आपने $1 जीत लिया!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "अपने परिणाम देखने और अपना रिवॉर्ड क्लेम करने का तरीका जानने के लिए खोलें।"
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "रिवॉर्ड क्लेम करें"
   }
 }

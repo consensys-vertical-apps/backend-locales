@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Xem quyết định về đơn đăng ký của bạn."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Bạn đã thắng $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Mở để xem kết quả của bạn và cách nhận phần thưởng."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Nhận thưởng"
   }
 }

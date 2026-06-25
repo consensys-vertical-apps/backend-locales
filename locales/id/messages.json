@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Lihat keputusan permohonan Anda."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Anda memenangkan $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Buka untuk melihat hasil Anda dan cara mengklaim hadiah Anda."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Klaim hadiah"
   }
 }

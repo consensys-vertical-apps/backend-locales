@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Tingnan ang desisyon sa aplikasyon mo."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Nanalo ka ng $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Buksan para makita ang iyong mga resulta at kung paano i-claim ang iyong reward."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "I-claim ang reward"
   }
 }

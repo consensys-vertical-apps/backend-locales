@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Ver decisão sobre sua inscrição."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Você ganhou o $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Abra para ver seus resultados e saber como resgatar sua recompensa."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Resgatar recompensa"
   }
 }

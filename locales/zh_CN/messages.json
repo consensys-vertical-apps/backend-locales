@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "查看您的申请结果。"
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "您赢得了 $1！"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "打开以查看您的结果以及如何领取奖励。"
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "领取奖励"
   }
 }

@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Δείτε την απόφαση της αίτησής σας."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Κερδίσατε το $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Ανοίξτε για να δείτε τα αποτελέσματά σας και πώς να διεκδικήσετε την ανταμοιβή σας."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Διεκδίκηση ανταμοιβής"
   }
 }

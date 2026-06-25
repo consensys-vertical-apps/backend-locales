@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Consultez la décision concernant votre demande."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Vous avez gagné le $1 !"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Ouvrez pour voir vos résultats et découvrir comment réclamer votre récompense."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Réclamer la récompense"
   }
 }
