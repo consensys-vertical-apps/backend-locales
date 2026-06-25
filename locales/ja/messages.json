@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "審査結果をご覧ください。"
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "$1を獲得しました！"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "結果と報酬の受け取り方法を確認するには開いてください。"
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "報酬を受け取る"
   }
 }

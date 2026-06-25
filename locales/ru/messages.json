@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Ознакомьтесь с решением по вашей заявке."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Вы выиграли $1!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Откройте, чтобы посмотреть результаты и узнать, как получить награду."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Получить награду"
   }
 }

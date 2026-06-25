@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Sehen Sie sich die Entscheidung über Ihren Antrag an."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "Sie haben $1 gewonnen!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Öffnen Sie die App, um Ihre Ergebnisse zu sehen und zu erfahren, wie Sie Ihre Belohnung einlösen können."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Belohnung einlösen"
   }
 }

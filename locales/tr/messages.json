@@ -133,5 +133,14 @@
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "Başvurunuzun sonucunu görüntüleyin."
+  },
+  "pushNotificationRewardsCampaignWinnerTitle": {
+    "message": "$1 kazandınız!"
+  },
+  "pushNotificationRewardsCampaignWinnerDescription": {
+    "message": "Sonuçlarınızı ve ödülünüzü nasıl talep edeceğinizi görmek için açın."
+  },
+  "pushNotificationRewardsCampaignWinnerCtaText": {
+    "message": "Ödülü talep et"
   }
 }
