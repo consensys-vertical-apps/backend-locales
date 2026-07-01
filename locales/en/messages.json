@@ -175,5 +175,21 @@
   },
   "pushNotificationRewardsCampaignWinnerCtaText": {
     "message": "Claim reward"
+  },
+
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 hit your target 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Price reached $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Price dropped to $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertCtaText": {
+    "message": "Trade now"
   }
 }
