@@ -129,9 +129,6 @@
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Claim updated"
   },
-  "pushNotificationShieldLearnMoreCta": {
-    "message": "Learn more"
-  },
   "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
     "message": "Your plan is now active."
   },
@@ -140,9 +137,6 @@
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
-  },
-  "pushNotificationShieldUpdatePaymentCta": {
-    "message": "Update payment"
   },
 
   "pushNotificationPredictSuperBowlLXTitle": {
@@ -163,18 +157,12 @@
   "pushNotificationCardKycFailedDescription": {
     "message": "View your application decision."
   },
-  "pushNotificationCardKycNotificationCtaText": {
-    "message": "Set up your MetaMask Card"
-  },
 
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "Open to see your results and how to claim your reward."
-  },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Claim reward"
   },
 
   "pushNotificationPriceAlertTitle": {
@@ -188,8 +176,5 @@
   "pushNotificationPriceAlertDroppedDescription": {
     "message": "Price dropped to $1",
     "description": "$1 is the threshold set"
-  },
-  "pushNotificationPriceAlertCtaText": {
-    "message": "Trade now"
   }
 }
