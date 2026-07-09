@@ -1,146 +1,175 @@
 {
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "$1 $2 aldınız"
+    "message": "You received $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Bir miktar token aldınız"
+    "message": "You received funds."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "Para alındı"
+    "message": "Funds received"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "$1 $2 gönderdiniz"
+    "message": "You sent $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Başarılı bir şekilde bir miktar token gönderdiniz"
+    "message": "You sent funds."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "Para gönderildi"
+    "message": "Funds sent"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "Yeni NFT'ler aldınız"
+    "message": "You received new NFTs."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
-    "message": "NFT alındı"
+    "message": "NFT received"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Başarılı bir şekilde bir NFT gönderdiniz"
+    "message": "You sent an NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "NFT gönderildi"
+    "message": "NFT sent"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Lido stake işleminiz başarılı oldu"
+    "message": "Your Lido stake deposit is complete."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "Stake tamamlandı"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Lido stake işleminiz şu anda para çekme işlemine hazır"
+    "message": "Your Lido stake is ready to withdraw."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "Stake, para çekme işlemine hazır"
+    "message": "Stake ready to withdraw"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Lido para çekme işleminiz başarılı oldu"
+    "message": "Your Lido withdrawal is complete."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
-    "message": "Para çekme işlemi tamamlandı"
+    "message": "Withdrawal complete"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Lido para çekme talebiniz gönderildi"
+    "message": "Your Lido withdrawal request was submitted."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
-    "message": "Para çekme talep edildi"
+    "message": "Withdrawal requested"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "RocketPool stake işleminiz başarılı oldu"
+    "message": "Your Rocket Pool stake deposit is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "Stake tamamlandı"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "RocketPool unstake işleminiz başarılı oldu"
+    "message": "Your Rocket Pool unstake is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
-    "message": "Unstake tamamlandı"
+    "message": "Unstake complete"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "MetaMask Swap başarılı oldu"
+    "message": "Your swap is complete."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
-    "message": "Swap tamamlandı"
+    "message": "Swap complete"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz artık açık.",
+    "message": "Your $1 long position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz artık açık.",
+    "message": "Your $1 short position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
-    "message": "Limit emri gerçekleşti"
+    "message": "Limit order filled"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz kapandı.",
+    "message": "Your $1 long position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz kapandı.",
+    "message": "Your $1 short position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Pozisyon likidasyona uğradı"
+    "message": "Position liquidated"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz zararda durdur noktanızda kapandı.",
+    "message": "Your $1 long closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz zararda durdur noktanızda kapandı.",
+    "message": "Your $1 short closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "Zararda durdur tetiklendi"
+    "message": "Stop loss triggered"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz kazancı al noktanızda kapandı.",
+    "message": "Your $1 long closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz kazancı al noktanızda kapandı.",
+    "message": "Your $1 short closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "Kazancı al tetiklendi"
+    "message": "Take profit triggered"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Your claim has been created."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Claim created"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Your claim has an update."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Claim updated"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Your plan is now active."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Your plan is paused. Update your payment to continue."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask Transaction Shield"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX BUGÜN"
+    "message": "🏈 Super Bowl LX is today"
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Kim kazanacak? Kazananı seçin, USDC ile ödeme alın. Şimdi tahmin edin."
+    "message": "Seahawks vs Patriots. Pick the winner and get paid in USDC."
   },
   "pushNotificationCardKycCompletedTitle": {
-    "message": "Onaylandınız!"
+    "message": "You're approved!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "MetaMask Kart kurulumunuzu bugün yapın ve kazanmaya başlayın."
+    "message": "Set up your MetaMask Card and start earning."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask Kart güncellemesi"
+    "message": "MetaMask Card update"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Başvurunuzun sonucunu görüntüleyin."
+    "message": "View your application decision."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
-    "message": "$1 kazandınız!"
+    "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Sonuçlarınızı ve ödülünüzü nasıl talep edeceğinizi görmek için açın."
+    "message": "Open to see your results and how to claim your reward."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Ödülü talep et"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 hit your target 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Price reached $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Price dropped to $1",
+    "description": "$1 is the threshold set"
   }
 }
