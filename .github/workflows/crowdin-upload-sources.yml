@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'locales/en/messages.json'
+    workflow_dispatch:
 
 jobs:
   upload-sources:
