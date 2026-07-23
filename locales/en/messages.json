@@ -176,5 +176,14 @@
   "pushNotificationPriceAlertDroppedDescription": {
     "message": "Price dropped to $1",
     "description": "$1 is the threshold set"
+  },
+
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 moved $2 last $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Now trading at $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
