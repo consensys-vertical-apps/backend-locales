@@ -1,146 +1,183 @@
 {
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Вы получили $1 $2"
+    "message": "You received $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Вы получили токены"
+    "message": "You received funds."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "Средства получены"
+    "message": "Funds received"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Вы успешно отправили $1 $2"
+    "message": "You sent $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Вы успешно отправили токены"
+    "message": "You sent funds."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "Средства отправлены"
+    "message": "Funds sent"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "Вы получили новый NFT"
+    "message": "You received new NFTs."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
-    "message": "NFT получен"
+    "message": "NFT received"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Вы успешно отправили NFT"
+    "message": "You sent an NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "NFT отправлен"
+    "message": "NFT sent"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Ваш стейкинг Lido успешно выполнен"
+    "message": "Your Lido stake deposit is complete."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "Стейкинг выполнен"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Ваш стейкинг Lido готов к выводу"
+    "message": "Your Lido stake is ready to withdraw."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "Стейкинг готов к выводу"
+    "message": "Stake ready to withdraw"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Ваш вывод средств из Lido успешно выполнен"
+    "message": "Your Lido withdrawal is complete."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
-    "message": "Вывод средств завершен"
+    "message": "Withdrawal complete"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Ваш запрос на вывод средств из Lido отправлен"
+    "message": "Your Lido withdrawal request was submitted."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
-    "message": "Запрошен вывод средств"
+    "message": "Withdrawal requested"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "Ваш стейкинг RocketPool успешно выполнен"
+    "message": "Your Rocket Pool stake deposit is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "Стейкинг завершен"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "Ваш стейкинг RocketPool успешно отменен"
+    "message": "Your Rocket Pool unstake is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
-    "message": "Отмена стейкинга завершена"
+    "message": "Unstake complete"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Ваш своп MetaMask успешно выполнен"
+    "message": "Your swap is complete."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
-    "message": "Обмен выполнен"
+    "message": "Swap complete"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 теперь открыта.",
+    "message": "Your $1 long position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 теперь открыта.",
+    "message": "Your $1 short position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
-    "message": "Лимитный ордер исполнен"
+    "message": "Limit order filled"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 была закрыта.",
+    "message": "Your $1 long position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 была закрыта.",
+    "message": "Your $1 short position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Позиция ликвидирована"
+    "message": "Position liquidated"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 закрыта вашим стоп-лоссом.",
+    "message": "Your $1 long closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 закрыта вашим стоп-лоссом.",
+    "message": "Your $1 short closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "Сработал стоп-лосс"
+    "message": "Stop loss triggered"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 закрыта вашим тейк-профитом.",
+    "message": "Your $1 long closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 закрыта вашим тейк-профитом.",
+    "message": "Your $1 short closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "Сработал тейк-профит"
+    "message": "Take profit triggered"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Your claim has been created."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Claim created"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Your claim has an update."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Claim updated"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Your plan is now active."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Your plan is paused. Update your payment to continue."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask Transaction Shield"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX СЕГОДНЯ"
+    "message": "🏈 Super Bowl LX is today"
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Кто выиграет все? Выберите победителя, получите оплату в USDC. Предскажите сейчас."
+    "message": "Seahawks vs Patriots. Pick the winner and get paid in USDC."
   },
   "pushNotificationCardKycCompletedTitle": {
-    "message": "Вы одобрены!"
+    "message": "You're approved!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Оформите свою карту MetaMask уже сегодня и начните зарабатывать."
+    "message": "Set up your MetaMask Card and start earning."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Новости о карте MetaMask"
+    "message": "MetaMask Card update"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Ознакомьтесь с решением по вашей заявке."
+    "message": "View your application decision."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
-    "message": "Вы выиграли $1!"
+    "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Откройте, чтобы посмотреть результаты и узнать, как получить награду."
+    "message": "Open to see your results and how to claim your reward."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Получить награду"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 hit your target 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Price reached $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Price dropped to $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 moved $2 last $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Now trading at $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
