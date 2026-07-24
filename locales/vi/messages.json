@@ -1,146 +1,183 @@
 {
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Bạn đã nhận được $1 $2"
+    "message": "You received $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Bạn đã nhận được một ít token"
+    "message": "You received funds."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "Đã nhận tiền"
+    "message": "Funds received"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Bạn đã gửi thành công $1 $2"
+    "message": "You sent $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Bạn đã gửi thành công một ít token"
+    "message": "You sent funds."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "Đã gửi tiền"
+    "message": "Funds sent"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "Bạn đã nhận được NFT mới"
+    "message": "You received new NFTs."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
-    "message": "Đã nhận NFT"
+    "message": "NFT received"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Bạn đã gửi thành công một NFT"
+    "message": "You sent an NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "Đã gửi NFT"
+    "message": "NFT sent"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Quá trình Ký gửi Lido của bạn đã thành công"
+    "message": "Your Lido stake deposit is complete."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "Hoàn tất ký gửi"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Tài sản ký gửi Lido của bạn hiện đã sẵn sàng để rút"
+    "message": "Your Lido stake is ready to withdraw."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "Tài sản ký gửi đã sẵn sàng để rút"
+    "message": "Stake ready to withdraw"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Quá trình Rút Lido của bạn đã thành công"
+    "message": "Your Lido withdrawal is complete."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
-    "message": "Đã hoàn tất rút tiền"
+    "message": "Withdrawal complete"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Yêu cầu rút Lido của bạn đã được gửi"
+    "message": "Your Lido withdrawal request was submitted."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
-    "message": "Đã yêu cầu rút tiền"
+    "message": "Withdrawal requested"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "Quá trình Ký gửi RocketPool của bạn đã thành công"
+    "message": "Your Rocket Pool stake deposit is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "Hoàn tất ký gửi"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "Quá trình Hủy ký gửi RocketPool của bạn đã thành công"
+    "message": "Your Rocket Pool unstake is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
-    "message": "Hoàn tất hủy ký gửi"
+    "message": "Unstake complete"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Quá trình Hoán đổi MetaMask của bạn đã thành công"
+    "message": "Your swap is complete."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
-    "message": "Đã hoàn tất hoán đổi"
+    "message": "Swap complete"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "Vị thế mua khống $1 của bạn hiện đã mở.",
+    "message": "Your $1 long position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "Vị thế bán khống $1 của bạn hiện đã mở.",
+    "message": "Your $1 short position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
-    "message": "Lệnh giới hạn đã khớp"
+    "message": "Limit order filled"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Lệnh mua khống $1 của bạn đã bị đóng.",
+    "message": "Your $1 long position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Lệnh bán khống $1 của bạn đã bị đóng.",
+    "message": "Your $1 short position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Vị thế đã bị thanh lý"
+    "message": "Position liquidated"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Lệnh mua khống $1 của bạn đã đóng tại mức cắt lỗ.",
+    "message": "Your $1 long closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Lệnh bán khống $1 của bạn đã đóng tại mức cắt lỗ.",
+    "message": "Your $1 short closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "Đã kích hoạt cắt lỗ"
+    "message": "Stop loss triggered"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Lệnh mua khống $1 của bạn đã đóng tại mức chốt lời.",
+    "message": "Your $1 long closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Lệnh bán khống $1 của bạn đã đóng tại mức chốt lời.",
+    "message": "Your $1 short closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "Đã kích hoạt chốt lời"
+    "message": "Take profit triggered"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Your claim has been created."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Claim created"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Your claim has an update."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Claim updated"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Your plan is now active."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Your plan is paused. Update your payment to continue."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask Transaction Shield"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX là HÔM NAY"
+    "message": "🏈 Super Bowl LX is today"
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Ai sẽ thắng? Chọn người chiến thắng, nhận thanh toán bằng USDC. Dự đoán ngay."
+    "message": "Seahawks vs Patriots. Pick the winner and get paid in USDC."
   },
   "pushNotificationCardKycCompletedTitle": {
-    "message": "Bạn đã được phê duyệt!"
+    "message": "You're approved!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Thiết lập Thẻ MetaMask của bạn ngay hôm nay và bắt đầu kiếm tiền."
+    "message": "Set up your MetaMask Card and start earning."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Cập nhật về Thẻ MetaMask"
+    "message": "MetaMask Card update"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Xem quyết định về đơn đăng ký của bạn."
+    "message": "View your application decision."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
-    "message": "Bạn đã thắng $1!"
+    "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Mở để xem kết quả của bạn và cách nhận phần thưởng."
+    "message": "Open to see your results and how to claim your reward."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Nhận thưởng"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 hit your target 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Price reached $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Price dropped to $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 moved $2 last $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Now trading at $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

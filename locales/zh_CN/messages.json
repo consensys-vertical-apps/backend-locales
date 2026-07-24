@@ -1,146 +1,183 @@
 {
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "您收到了 $1 $2"
+    "message": "You received $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "您已收到一些代币"
+    "message": "You received funds."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "已收到资金"
+    "message": "Funds received"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "您已成功发送 $1 $2"
+    "message": "You sent $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "您已成功发送一些代币"
+    "message": "You sent funds."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "已发送资金"
+    "message": "Funds sent"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "您已收到新的 NFT"
+    "message": "You received new NFTs."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
-    "message": "已收到 NFT"
+    "message": "NFT received"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "您已成功发送一个 NFT"
+    "message": "You sent an NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "NFT 已发送"
+    "message": "NFT sent"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "您的 Lido 质押已成功"
+    "message": "Your Lido stake deposit is complete."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "质押完成"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "您的 Lido 质押现在已准备好提取"
+    "message": "Your Lido stake is ready to withdraw."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "可供提取的质押"
+    "message": "Stake ready to withdraw"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "您的 Lido 提取已成功"
+    "message": "Your Lido withdrawal is complete."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
-    "message": "提取已完成"
+    "message": "Withdrawal complete"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "您的 Lido 提取请求已提交"
+    "message": "Your Lido withdrawal request was submitted."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
-    "message": "已请求提取"
+    "message": "Withdrawal requested"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "您的 RocketPool 质押已成功"
+    "message": "Your Rocket Pool stake deposit is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "质押完成"
+    "message": "Stake deposited"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "您的 RocketPool 解除质押已成功"
+    "message": "Your Rocket Pool unstake is complete."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
-    "message": "解除质押完成"
+    "message": "Unstake complete"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "您的 MetaMask 兑换已成功"
+    "message": "Your swap is complete."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
-    "message": "兑换已完成"
+    "message": "Swap complete"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "您的 $1 多头仓位现已开立。",
+    "message": "Your $1 long position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "您的 $1 空头仓位现已开立。",
+    "message": "Your $1 short position is now open.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
-    "message": "限价订单已成交"
+    "message": "Limit order filled"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "您的 $1 多头仓位已平仓。",
+    "message": "Your $1 long position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "您的 $1 空头仓位已平仓。",
+    "message": "Your $1 short position was liquidated.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "仓位已清算"
+    "message": "Position liquidated"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "您的 $1 多头仓位已触发止损平仓。",
+    "message": "Your $1 long closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "您的 $1 空头仓位已触发止损平仓。",
+    "message": "Your $1 short closed at your stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "止损已触发"
+    "message": "Stop loss triggered"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "您的 $1 多头仓位已达成止盈平仓。",
+    "message": "Your $1 long closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "您的 $1 空头仓位已达成止盈平仓。",
+    "message": "Your $1 short closed at your take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "止盈已触发"
+    "message": "Take profit triggered"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Your claim has been created."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Claim created"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Your claim has an update."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Claim updated"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Your plan is now active."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Your plan is paused. Update your payment to continue."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask Transaction Shield"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX 就在今天"
+    "message": "🏈 Super Bowl LX is today"
   },
   "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. 谁会赢得一切？选择获胜者，以 USDC 获得报酬。立即预测。"
+    "message": "Seahawks vs Patriots. Pick the winner and get paid in USDC."
   },
   "pushNotificationCardKycCompletedTitle": {
-    "message": "您已通过审核！"
+    "message": "You're approved!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "立即设置您的 MetaMask 卡，开始赚取奖励。"
+    "message": "Set up your MetaMask Card and start earning."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask 卡更新"
+    "message": "MetaMask Card update"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "查看您的申请结果。"
+    "message": "View your application decision."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
-    "message": "您赢得了 $1！"
+    "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "打开以查看您的结果以及如何领取奖励。"
+    "message": "Open to see your results and how to claim your reward."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "领取奖励"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 hit your target 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Price reached $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Price dropped to $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 moved $2 last $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Now trading at $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
