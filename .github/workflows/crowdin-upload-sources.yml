@@ -1,12 +1,12 @@
 name: Crowdin Upload Sources
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - 'locales/en/messages.json'
-    workflow_dispatch:
 
 jobs:
   upload-sources:
