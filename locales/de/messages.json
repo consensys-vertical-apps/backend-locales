@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "Von $1 empfanen",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "An $1 gesendet",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "NFT von $1 empfangen",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "NFT an $1 gesendet",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Eingesetzt"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Sie können sich nun Ihre Unstaked $1 auszahlen lassen",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Auszahlung angefordert"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1 für $2 geswappt",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Unstaking abschließen"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "Ihre Anfrage zum Unstake $1 $2 wurde gesendet",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Unstaking angefordert"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "Sie haben $1 $2 erhalten"
   },

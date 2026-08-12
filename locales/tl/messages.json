@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "Natanggap mula sa $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "Ipinadala sa $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "Natanggap ang NFT mula sa $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "Ipinadala ang NFT sa $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Naka-stake"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Maaari mo ng i-withdraw ang iyong in-unstake na $1",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Hiniling ang pag-withdraw"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "Nai-swap ang $1 sa $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Nakumpleto ang pag-unstake"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "Ang iyong hiling na i-unstake ang $1 $2 ay naipadala na",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Hiniling ang pag-unstake"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "Nakatanggap ka ng $1 $2."
   },

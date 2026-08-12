@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "$1 adresinden alındı",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "$1 adresine gönderildi",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "NFT gönderen: $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "NFT alıcısı: $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Stake Edilen"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Şu anda unstake $1 çekebilirsiniz",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Para çekme talep edildi"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1 - $2 swap işlemi gerçekleştirildi",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Unstake tamamlandı"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "$1 $2 unstake talebiniz gönderildi",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Unstake talep edildi"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "$1 $2 aldınız."
   },

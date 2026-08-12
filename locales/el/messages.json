@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "Λάβατε από $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "Στάλθηκαν σε $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "Ελήφθησαν NFT από $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "Εστάλη NFT σε $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Ποντάρισμα"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Μπορείτε τώρα να αποσύρετε την ακύρωση πονταρίσματος $1",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Αίτημα ανάληψης"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "Ανταλλάξατε $1 για $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Ολοκλήρωση ακύρωσης πονταρίσματος"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "Το αίτημά σας για ακύρωση πονταρίσματος $1 $2 έχει σταλεί",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Αίτημα ακύρωσης πονταρίσματος"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "Λάβατε $1 $2"
   },
