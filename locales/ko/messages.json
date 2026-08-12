@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "$1에서 받음",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "$1(으)로 전송됨",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "$1에서 NFT를 받음",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "$1(으)로 NFT를 전송함",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "스테이킹 완료"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "이제 언스테이킹한 $1을(를) 인출할 수 있습니다",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "출금 요청됨"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1을(를) $2(으)로 스왑함",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "언스테이킹 완료"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "$1 $2 언스테이킹 요청이 전송되었습니다",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "언스테이킹 요청됨"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "$1 $2을(를) 받았습니다."
   },
