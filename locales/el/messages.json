@@ -3,70 +3,70 @@
     "message": "Λάβατε $1 $2"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Λάβατε μερικά tokens"
+    "message": "Λάβατε κάποιο κεφάλαιο."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "Ελήφθη κεφάλαια"
+    "message": "Ελήφθησαν κάποια κεφάλαια"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Στείλατε με επιτυχία $1 $2"
+    "message": "Στείλατε $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Στείλατε επιτυχώς μερικά tokens"
+    "message": "Στείλατε κάποια κεφάλαια."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Στάλθηκαν κεφάλαια"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "Λάβατε νέα NFT"
+    "message": "Λάβατε νέα NFT."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
     "message": "Ελήφθησαν NFT"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Στείλατε επιτυχώς ένα NFT"
+    "message": "Στείλατε επιτυχώς ένα NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "Στάλθηκαν NFT"
+    "message": "Το NFT εστάλη"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Το ποντάρισμά σας στο Lido ήταν επιτυχές"
+    "message": "Το ποντάρισμά σας στο Lido ήταν επιτυχές."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
     "message": "Ολοκλήρωση πονταρίσματος"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Το ποντάρισμά σας στο Lido είναι τώρα έτοιμο για ανάληψη"
+    "message": "Το ποντάρισμά σας στο Lido είναι τώρα έτοιμο για ανάληψη."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
     "message": "Έτοιμο το ποντάρισμα για ανάληψη"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Η ανάληψή σας από το Lido ήταν επιτυχής"
+    "message": "Η ανάληψή σας από το Lido ολοκληρώθηκε."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "Η ανάληψη ολοκληρώθηκε"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Υποβλήθηκε το αίτημα ανάληψης από το Lido"
+    "message": "Υποβλήθηκε το αίτημα ανάληψης από το Lido."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
     "message": "Αίτημα ανάληψης"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "Το ποντάρισμά σας στο RocketPool ήταν επιτυχές"
+    "message": "Το ποντάρισμά σας στο RocketPool ήταν επιτυχές."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
     "message": "Ολοκλήρωση πονταρίσματος"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "Η ακύρωση του πονταρίσματός σας από το RocketPool ήταν επιτυχής"
+    "message": "Η ακύρωση του πονταρίσματός σας από το RocketPool ήταν επιτυχής."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "Ολοκλήρωση ακύρωσης πονταρίσματος"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Η ανταλλαγή σας στο MetaMask ήταν επιτυχής"
+    "message": "Η ανταλλαγή σας στο MetaMask ήταν επιτυχής."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Η ανταλλαγή ολοκληρώθηκε"
@@ -91,7 +91,7 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Η θέση ρευστοποιήθηκε"
+    "message": "Η θέση έκλεισε"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
     "message": "Η θέση αγοράς σας σε $1 έκλεισε με περιορισμό ζημίας.",
@@ -113,9 +113,29 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "Ενεργοποιήθηκε η λήψη κέρδους"
+    "message": "Ενεργοποιήθηκε το σημείο κέρδους"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Το αίτημά σας καταχωρίστηκε."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Το αίτημα καταχωρίστηκε"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Υπάρχει ενημέρωση για το αίτημά σας."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Το αίτημα ενημερώθηκε"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Το πρόγραμμά σας είναι πλέον ενεργό."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Το πρόγραμμά σας έχει τεθεί σε παύση. Ενημερώστε τα στοιχεία πληρωμής σας για να συνεχίσετε."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask Transaction Shield"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX είναι ΣΗΜΕΡΑ"
   },
@@ -140,7 +160,24 @@
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "Ανοίξτε για να δείτε τα αποτελέσματά σας και πώς να διεκδικήσετε την ανταμοιβή σας."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Διεκδίκηση ανταμοιβής"
+  "pushNotificationPriceAlertTitle": {
+    "message": "Το $1 έπιασε τον στόχο σας 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Η τιμή έφτασε τα $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Η τιμή έπεσε στα $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "Το $1 κινήθηκε κατά $2 το τελευταίο $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Η τρέχουσα τιμή είναι $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

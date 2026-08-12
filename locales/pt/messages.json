@@ -3,16 +3,16 @@
     "message": "Você recebeu $1 $2"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Você recebeu alguns tokens"
+    "message": "Você recebeu fundos."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Fundos recebidos"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Você enviou $1 $2 com sucesso"
+    "message": "Você enviou $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Você enviou alguns tokens com sucesso"
+    "message": "Você enviou fundos."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Fundos enviados"
@@ -24,49 +24,49 @@
     "message": "NFT recebido"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Você enviou um NFT com sucesso"
+    "message": "Você enviou um NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
     "message": "NFT enviado"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Seu staking no Lido foi bem-sucedido"
+    "message": "Seu depósito de staking no Lido foi concluído."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "Staking concluído"
+    "message": "Staking depositado"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Seu staking no Lido já está pronto para ser sacado"
+    "message": "Seu staking no Lido já está pronto para ser sacado."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "Staking pronto para saque"
+    "message": "Staking pronto para sacar"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Seu saque no Lido foi bem-sucedido"
+    "message": "Seu saque no Lido foi concluído."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "Saque concluído"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Sua solicitação de saque no Lido foi enviada"
+    "message": "Sua solicitação de saque no Lido foi enviada."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
     "message": "Saque solicitado"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "Seu staking no RocketPool foi bem-sucedido"
+    "message": "Seu depósito de staking na Rocket Pool foi concluído."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "Staking concluído"
+    "message": "Staking depositado"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "Sua retirada de staking no RocketPool foi bem-sucedida"
+    "message": "Sua retirada de staking no RocketPool foi concluída."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "Retirada de staking concluída"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Sua troca na MetaMask foi bem-sucedida"
+    "message": "Sua operação de swap foi concluída."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Swap concluído"
@@ -83,11 +83,11 @@
     "message": "Ordem limitada executada"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Sua posição long em $1 foi encerrada.",
+    "message": "Sua posição long em $1 foi liquidada.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Sua posição short em $1 foi encerrada.",
+    "message": "Sua posição short em $1 foi liquidada.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
@@ -115,7 +115,27 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit acionado"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Sua reivindicação foi criada."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Reivindicação criada"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Sua reivindicação tem uma atualização."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Reivindicação atualizada"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Seu plano agora está ativo."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Seu plano está pausado. Atualize seu pagamento para continuar."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "Escudo de Transações da MetaMask"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX é HOJE"
   },
@@ -126,7 +146,7 @@
     "message": "Você foi aprovado(a)!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Configure seu Cartão MetaMask hoje mesmo e comece a ganhar."
+    "message": "Configure seu Cartão MetaMask e comece a ganhar."
   },
   "pushNotificationCardKycFailedTitle": {
     "message": "Atualização do Cartão MetaMask"
@@ -140,7 +160,24 @@
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "Abra para ver seus resultados e saber como resgatar sua recompensa."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Resgatar recompensa"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 alcançou sua meta 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Preço alcançou $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Preço caiu para $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 variou $2 na última $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Sendo negociado agora a $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
