@@ -1,72 +1,112 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "$1 से प्राप्त हुआ",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "$1 पर भेजा गया",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "NFT को $1 से प्राप्त किया गया",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "NFT को $1 पर भेजा गया",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "स्टेक किया गया"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "अब आप अपना अनस्टेक्ड $1 वापस ले सकते हैं",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "विदड्रॉवल का अनुरोध किया गया"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1 को $2 के लिए स्वैप किया गया",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "अनस्टेकिंग पूरा हुआ"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "$1 $2 को अनस्टेक करने का आपका अनुरोध भेज दिया गया है",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "अनस्टेकिंग का अनुरोध किया गया"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "आपको $1 $2 प्राप्त हुए"
+    "message": "आपको $1 $2 प्राप्त हुए।"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "आपको कुछ टोकन प्राप्त हुए"
+    "message": "आपको फंड प्राप्त हुए।"
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
-    "message": "फंड प्राप्त किए गए"
+    "message": "फंड प्राप्त हुए"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "आपने सफलतापूर्वक $1 $2 भेज दिया"
+    "message": "आपने $1 $2 भेजा।"
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "आपने कुछ टोकन सफलतापूर्वक भेज दिए"
+    "message": "आपने फंड भेजे।"
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "फंड भेजे गए"
+    "message": "फंड भेजे"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "आपको नए NFTs प्राप्त हुए"
+    "message": "आपको नए NFTs प्राप्त हुए।"
   },
   "pushPlatformNotificationsNftReceivedTitle": {
-    "message": "NFT प्राप्त किया गया"
+    "message": "NFT प्राप्त हुए"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "आपने सफलतापूर्वक NFT भेज दिया है"
+    "message": "आपने एक NFT भेजा।"
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "NFT भेजा गया"
+    "message": "NFT भेजा"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "आपका Lido स्टेक सफल रहा"
+    "message": "आपका Lido स्टेक डिपॉज़िट पूरा हुआ।"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "स्टेक पूरा हुआ"
+    "message": "स्टेक डिपॉज़िट किया गया"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "आपकी Lido स्टेक अब विदड्रॉवल के लिए तैयार है"
+    "message": "आपका Lido स्टेक अब विदड्रॉवल के लिए तैयार है।"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
     "message": "स्टेक विदड्रॉवल के लिए तैयार है"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "आपकी Lido विदड्रॉवल सफल रहा"
+    "message": "आपका Lido विदड्रॉवल पूरा हुआ।"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "विदड्रॉवल पूरा हुआ"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "आपका Lido विदड्रॉवल अनुरोध सबमिट कर दिया गया"
+    "message": "आपका Lido विदड्रॉवल अनुरोध सबमिट कर दिया गया।"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
     "message": "विदड्रॉवल का अनुरोध किया गया"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "आपका रॉकेटपूल स्टेक सफल रहा"
+    "message": "आपका Rocket Pool स्टेक डिपॉज़िट पूरा हुआ।"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "स्टेक पूरा हुआ"
+    "message": "स्टेक डिपॉज़िट किया गया"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "आपकी रॉकेटपूल अनस्टेक सफल रहा"
+    "message": "आपका Rocket Pool अनस्टेक पूरा हुआ।"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "अनस्टेक पूरा हुआ"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "आपका MetaMask स्वैप सफल रहा"
+    "message": "आपका स्वैप पूरा हुआ।"
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "स्वैप पूरा हुआ"
@@ -80,29 +120,29 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
-    "message": "लिमिट ऑर्डर पूरा हो गया"
+    "message": "लिमिट ऑर्डर फिल हो गया"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "आपकी $1 लॉन्ग पोज़िशन बंद कर दी गई।",
+    "message": "आपकी $1 लॉन्ग पोज़िशन लिक्विडेट कर दी गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "आपकी $1 शॉर्ट पोज़िशन बंद कर दी गई।",
+    "message": "आपकी $1 शॉर्ट पोज़िशन लिक्विडेट कर दी गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "पोज़िशन लिक्विडेट हो गई"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "आपकी $1 लॉन्ग पोज़िशन स्टॉप लॉस पर बंद हो गई।",
+    "message": "आपकी $1 लॉन्ग पोज़िशन स्टॉप लॉस पर बंद कर दी गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "आपकी $1 शॉर्ट पोज़िशन स्टॉप लॉस पर बंद हो गई।",
+    "message": "आपकी $1 शॉर्ट पोज़िशन स्टॉप लॉस पर बंद कर दी गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "स्टॉप लॉस ट्रिगर किया गया"
+    "message": "स्टॉप लॉस ट्रिगर हो गया"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
     "message": "आपकी $1 लॉन्ग पोज़िशन टेक प्रॉफिट पर बंद हो गई।",
@@ -115,7 +155,27 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "टेक प्रॉफ़िट ट्रिगर हो गया"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "आपका क्लेम बना दिया गया है।"
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "क्लेम बनाया गया"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "आपके क्लेम में अपडेट हुआ है।"
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "क्लेम अपडेट किया गया"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "आपका प्लान अब सक्रिय है।"
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "आपका प्लान रोक दिया गया है। जारी रखने के लिए अपना भुगतान अपडेट करें।"
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask ट्रांसेक्शन शील्ड"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX आज है"
   },
@@ -126,7 +186,7 @@
     "message": "आपको मंज़ूरी मिल गई है!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "आज ही अपना MetaMask कार्ड सेट अप करें और कमाना शुरू करें।"
+    "message": "अपना MetaMask कार्ड सेट अप करें और कमाना शुरू करें।"
   },
   "pushNotificationCardKycFailedTitle": {
     "message": "MetaMask कार्ड अपडेट"
@@ -140,7 +200,24 @@
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "अपने परिणाम देखने और अपना रिवॉर्ड क्लेम करने का तरीका जानने के लिए खोलें।"
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "रिवॉर्ड क्लेम करें"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 आपके लक्ष्य तक पहुँच गया 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "प्राइस $1 तक पहुँच गई",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "प्राइस $1 तक गिर गई",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 पिछले $3 में $2 बदला",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "अभी $1 पर ट्रेड कर रहा है",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

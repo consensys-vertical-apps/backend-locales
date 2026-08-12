@@ -1,72 +1,112 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "已从 $1 收到",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "已发送至 $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "已从 $1 收到 NFT",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "已发送 NFT 至 $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "已质押"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "您现在可以提取已解除质押的 $1",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "已请求提取"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "已用 $1 兑换 $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "解除质押完成"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "您解除质押 $1 $2 的请求已发送",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "已请求解除质押"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "您收到了 $1 $2"
+    "message": "您收到了 $1 $2。"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "您已收到一些代币"
+    "message": "您已收到资金。"
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "已收到资金"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "您已成功发送 $1 $2"
+    "message": "您已发送 $1 $2。"
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "您已成功发送一些代币"
+    "message": "您已发送资金。"
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "已发送资金"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "您已收到新的 NFT"
+    "message": "您已收到新的 NFT。"
   },
   "pushPlatformNotificationsNftReceivedTitle": {
     "message": "已收到 NFT"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "您已成功发送一个 NFT"
+    "message": "您已发送一个 NFT。"
   },
   "pushPlatformNotificationsNftSentTitle": {
     "message": "NFT 已发送"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "您的 Lido 质押已成功"
+    "message": "您的 Lido 质押保证金已完成。"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "质押完成"
+    "message": "质押已存入"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "您的 Lido 质押现在已准备好提取"
+    "message": "您的 Lido 质押现在已可供提取。"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
     "message": "可供提取的质押"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "您的 Lido 提取已成功"
+    "message": "您的 Lido 提取已完成。"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "提取已完成"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "您的 Lido 提取请求已提交"
+    "message": "您的 Lido 提取请求已提交。"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
     "message": "已请求提取"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "您的 RocketPool 质押已成功"
+    "message": "您的 Rocket Pool 质押保证金已完成。"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "质押完成"
+    "message": "质押已存入"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "您的 RocketPool 解除质押已成功"
+    "message": "您的 Rocket Pool 解除质押已完成。"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "解除质押完成"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "您的 MetaMask 兑换已成功"
+    "message": "您的兑换已完成。"
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "兑换已完成"
@@ -91,7 +131,7 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "仓位已清算"
+    "message": "仓位已平仓"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
     "message": "您的 $1 多头仓位已触发止损平仓。",
@@ -115,7 +155,27 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "止盈已触发"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "您的索赔已创建。"
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "索赔已创建"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "您的索赔有更新。"
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "索赔已更新"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "您的计划现已生效。"
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "您的计划已暂停。请更新您的付款以继续。"
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask 交易防护"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX 就在今天"
   },
@@ -123,10 +183,10 @@
     "message": "Seahawks vs Patriots. 谁会赢得一切？选择获胜者，以 USDC 获得报酬。立即预测。"
   },
   "pushNotificationCardKycCompletedTitle": {
-    "message": "您已通过审核！"
+    "message": "您已获得批准！"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "立即设置您的 MetaMask 卡，开始赚取奖励。"
+    "message": "设置您的 MetaMask 卡，开始赚取奖励。"
   },
   "pushNotificationCardKycFailedTitle": {
     "message": "MetaMask 卡更新"
@@ -140,7 +200,24 @@
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "打开以查看您的结果以及如何领取奖励。"
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "领取奖励"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 已达到您的目标 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "价格达到 $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "价格跌至 $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 在过去 $3 变动 $2",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "当前交易 $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

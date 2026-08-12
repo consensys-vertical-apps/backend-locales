@@ -1,30 +1,70 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "$1에서 받음",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "$1(으)로 전송됨",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "$1에서 NFT를 받음",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "$1(으)로 NFT를 전송함",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "스테이킹 완료"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "이제 언스테이킹한 $1을(를) 인출할 수 있습니다",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "출금 요청됨"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1을(를) $2(으)로 스왑함",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "언스테이킹 완료"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "$1 $2 언스테이킹 요청이 전송되었습니다",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "언스테이킹 요청됨"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "$1 $2을(를) 받았습니다"
+    "message": "$1 $2을(를) 받았습니다."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "토큰을 받았습니다"
+    "message": "자금을 받았습니다."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "자금 받음"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "$1 $2을(를) 보냈습니다"
+    "message": "$1 $2을(를) 보냈습니다."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "토큰을 보냈습니다"
+    "message": "자금을 보냈습니다."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "자금 전송됨"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "새로운 NFT를 받았습니다"
+    "message": "새로운 NFT를 받았습니다."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
     "message": "NFT 받음"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "NFT를 보냈습니다"
+    "message": "NFT를 보냈습니다."
   },
   "pushPlatformNotificationsNftSentTitle": {
     "message": "NFT 전송됨"
@@ -39,83 +79,103 @@
     "message": "이제 Lido에 스테이킹한 자산을 출금할 수 있습니다."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "스테이킹이 출금 준비됨"
+    "message": "스테이킹 자산 출금 가능"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Lido 출금이 완료되었습니다"
+    "message": "Lido 출금이 완료되었습니다."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "출금 완료"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Lido 출금 요청이 제출되었습니다"
+    "message": "Lido 출금 요청이 제출되었습니다."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
     "message": "출금 요청됨"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "RocketPool 스테이킹이 완료되었습니다"
+    "message": "로켓풀 스테이킹이 완료되었습니다."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
     "message": "스테이킹 완료"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "RocketPool 언스테이킹이 완료되었습니다"
+    "message": "로켓풀 언스테이킹이 완료되었습니다."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "언스테이킹 완료"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "MetaMask 스왑이 완료되었습니다"
+    "message": "스왑이 완료되었습니다."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "스왑 완료"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "지금 $1 롱 포지션에 진입했습니다.",
+    "message": "$1 롱 포지션에 진입했습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "지금 $1 숏 포지션에 진입했습니다.",
+    "message": "$1 숏 포지션에 진입했습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
-    "message": "지정가 체결"
+    "message": "지정가 주문 체결"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "$1 롱이 청산되었습니다.",
+    "message": "$1 롱 포지션이 청산되었습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "$1 숏이 청산되었습니다.",
+    "message": "$1 숏 포지션이 청산되었습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "포지션 청산"
+    "message": "포지션 청산됨"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "$1 롱이 손절가에 청산되었습니다.",
+    "message": "$1 롱 포지션이 손절가에 청산되었습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "$1 숏이 손절가에 청산되었습니다.",
+    "message": "$1 숏 포지션이 손절가에 청산되었습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "손절 실행"
+    "message": "손절 실행됨"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "$1 롱이 익절가에 청산되었습니다.",
+    "message": "$1 롱 포지션이 익절가에 청산되었습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "$1 숏이 익절가에 청산되었습니다.",
+    "message": "$1 숏 포지션이 익절가에 청산되었습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "익절 실행"
+    "message": "익절 실행됨"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "클레임이 접수되었습니다."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "클레임 접수됨"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "클레임이 업데이트되었습니다."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "클레임 업데이트됨"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "플랜이 활성화되었습니다."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "플랜이 일시 중지되었습니다. 계속하려면 결제 수단을 업데이트하세요."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMask 트랜잭션 실드"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX 는 오늘입니다"
   },
@@ -138,9 +198,26 @@
     "message": "$1에 당첨되었습니다!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "결과와 보상을 수령하는 방법을 확인하려면 열어 보세요."
+    "message": "결과와 보상 수령 방법을 확인하려면 열어 보세요."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "보상 수령"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 목표가 도달 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "가격이 $1에 도달했습니다",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "가격이 $1(으)로 하락했습니다",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1이(가) 최근 $3 동안 $2 변동했습니다",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "현재 $1에 거래 중",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

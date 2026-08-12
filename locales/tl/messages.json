@@ -1,48 +1,88 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "Natanggap mula sa $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "Ipinadala sa $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "Natanggap ang NFT mula sa $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "Ipinadala ang NFT sa $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Naka-stake"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Maaari mo ng i-withdraw ang iyong in-unstake na $1",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Hiniling ang pag-withdraw"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "Nai-swap ang $1 sa $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Nakumpleto ang pag-unstake"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "Ang iyong hiling na i-unstake ang $1 $2 ay naipadala na",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Hiniling ang pag-unstake"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Nakatanggap ka ng $1 $2"
+    "message": "Nakatanggap ka ng $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Nakatanggap ka ng ilang token"
+    "message": "Nakatanggap ka ng mga pondo."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Natanggap ang pondo"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Matagumpay kang nakapagpadala ng $1 $2"
+    "message": "Nagpadala ka ng $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Matagumpay mong naipadala ang ilang token"
+    "message": "Nagpadala ka ng mga pondo."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "Naipadala ang pondo"
+    "message": "Naipadala ang mga pondo"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "Nakatanggap ka ng mga bagong NFT"
+    "message": "Nakatanggap ka ng mga bagong NFT."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
     "message": "Natanggap ang NFT"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Matagumpay mong naipadala ang NFT"
+    "message": "Nagpadala ka ng NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
     "message": "Naipadala ang NFT"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Matagumpay ang pag-stake mo sa Lido"
+    "message": "Nakumpleto ang stake deposit mo sa Lido."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "Nakumpleto ang pag-stake"
+    "message": "Naideposito ang stake"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Ang stake mo sa Lido ay handa ng i-withdraw ngayon"
+    "message": "Handa ng i-withdraw ang stake mo sa Lido."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "Handa nang i-withdraw ang stake"
+    "message": "Handa ng i-withdraw ang stake"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Matagumpay ang pag-withdraw mo sa Lido"
+    "message": "Nakumpleto ang pag-withdraw mo sa Lido."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "Nakumpleto ang pag-withdraw"
@@ -54,19 +94,19 @@
     "message": "Hiniling ang pag-withdraw"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "Matagumpay ang pag-stake mo sa RocketPool"
+    "message": "Nakumpleto ang stake deposit mo sa Rocket Pool."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "Nakumpleto ang pag-stake"
+    "message": "Naideposito ang stake"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "Matagumpay ang pag-unstake mo sa RocketPool"
+    "message": "Nakumpleto ang pag-unstake mo sa Rocket Pool."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "Nakumpleto ang pag-unstake"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Matagumpay ang Pag-swap mo sa MetaMask"
+    "message": "Nakumpleto ang pag-swap mo."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Nakumpleto ang pag-swap"
@@ -83,39 +123,59 @@
     "message": "Na-fill ang limit order"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Isinara na ang iyong long position sa $1.",
+    "message": "Na-liquidate na ang long position mo na $1.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Isinara na ang iyong short position sa $1.",
+    "message": "Na-liquidate na ang short position mo na $1.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Na-liquidate ang posisyon"
+    "message": "Na-liquidate ang position"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Nag-long close ang iyong $1 sa itinakda mong stop loss.",
+    "message": "Nag-close ang iyong $1 na long sa stop loss mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Nag-short close ang iyong $1 sa itinakda mong stop loss.",
+    "message": "Nag-close ang iyong $1 na short sa stop loss mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Na-trigger ang stop loss"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Nag-long close ang iyong $1 sa itinakda mong take profit.",
+    "message": "Nag-close ang iyong $1 na long sa take profit mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Nag-short close ang iyong $1 sa itinakda mong take profit.",
+    "message": "Nag-close ang iyong $1 na short sa take profit mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Na-trigger ang take profit"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Nagawa na ang claim mo."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Nagawa ang claim"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "May update sa claim mo."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Na-update ang claim"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Aktibo na ngayon ang plan mo."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Naka-pause ang plan mo. I-update ang bayad mo para magpatuloy."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "Panangga sa Transaksyon sa MetaMask"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX ay NGAYON"
   },
@@ -140,7 +200,24 @@
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "Buksan para makita ang iyong mga resulta at kung paano i-claim ang iyong reward."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "I-claim ang reward"
+  "pushNotificationPriceAlertTitle": {
+    "message": "Naabot ng $1 ang target mo 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Umabot ang presyo sa $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Bumagsak ang presyo sa $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "Gumalaw ang $1 ng $2 sa nakalipas na $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Nagti-trade ngayon sa $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

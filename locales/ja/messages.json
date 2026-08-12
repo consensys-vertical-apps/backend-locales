@@ -1,93 +1,133 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "$1から受け取りました",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "$1に送りました",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "$1からNFTを受け取りました",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "$1にNFTを送りました",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "ステーキング中"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "ステーキングが解除された$1を引き出せるようになりました",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "出金がリクエストされました"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1を$2にスワップしました",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "ステーキングの解除が完了しました"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "$1 $2のステーキングを解除するリクエストが送信されました",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "ステーキングの解除がリクエストされました"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "$1 $2を受け取りました"
+    "message": "$1 $2を受け取りました。"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "トークンを受け取りました"
+    "message": "資金を受け取りました。"
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "資金の受領"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "$1 $2を送りました"
+    "message": "$1 $2を送金しました。"
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "トークンが送金されました"
+    "message": "資金が送金されました。"
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "送金されました"
+    "message": "送金完了"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "新しいNFTを受け取りました"
+    "message": "新しいNFTを受け取りました。"
   },
   "pushPlatformNotificationsNftReceivedTitle": {
     "message": "NFTの受領"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "NFTが送られました"
+    "message": "NFTが送信されました。"
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "NFTが送られました"
+    "message": "NFTの送信完了"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Lidoのステーキングに成功しました"
+    "message": "Lidoのステーキングに成功しました。"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
     "message": "ステーキング完了"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Lidoのステークの出金準備が完了しました"
+    "message": "Lidoのステーキングの引き出し準備が完了しました。"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "ステークの出金準備完了"
+    "message": "ステーキングの引き出し準備完了"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Lidoの出金に成功しました"
+    "message": "Lidoの引き出しに成功しました。"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
-    "message": "出金完了"
+    "message": "引き出し完了"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Lidoの出金リクエストが送信されました"
+    "message": "Lidoの引き出しリクエストが送信されました。"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
-    "message": "出金のリクエスト"
+    "message": "引き出しリクエスト完了"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "RocketPoolのステーキングに成功しました"
+    "message": "RocketPoolのステーキングに成功しました。"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
     "message": "ステーキング完了"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "RocketPoolのステーキングの解除に成功しました"
+    "message": "RocketPoolのステーキングの解除に成功しました。"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "ステーキングの解除完了"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "MetaMaskスワップに成功しました"
+    "message": "スワップに成功しました。"
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "スワップ完了"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "$1のロングポジションがオープンしました。",
+    "message": "$1のロングポジションをオープンしました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "$1のショートポジションがオープンしました。",
+    "message": "$1のショートポジションをオープンしました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
     "message": "リミット注文が約定しました"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "$1のロングがクローズされました。",
+    "message": "$1のロングポジションが清算されました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "$1のショートがクローズされました。",
+    "message": "$1のショートポジションが清算されました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
@@ -102,7 +142,7 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
-    "message": "ストップロスがトリガーされました"
+    "message": "ストップロスが発動しました"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
     "message": "$1のロングが利益確定でクローズされました。",
@@ -113,9 +153,29 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
-    "message": "利益確定がトリガーされました"
+    "message": "利益確定が発動しました"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "補償申請が作成されました。"
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "申請の作成完了"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "補償申請についてお知らせがあります。"
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "申請状況の更新"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "プランが有効になりました。"
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "プランが停止されました。支払いを更新して続行してください。"
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "MetaMaskトランザクションシールド"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LXは本日です"
   },
@@ -126,10 +186,10 @@
     "message": "承認されました！"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "今すぐMetaMaskカードをセットアップして、キャッシュバックの獲得を始めましょう。"
+    "message": "MetaMask Cardをセットアップして、キャッシュバックの獲得を始めましょう。"
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMaskカードについてのお知らせ"
+    "message": "MetaMask Cardについてのお知らせ"
   },
   "pushNotificationCardKycFailedDescription": {
     "message": "審査結果をご覧ください。"
@@ -138,9 +198,26 @@
     "message": "$1を獲得しました！"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "結果と報酬の受け取り方法を確認するには開いてください。"
+    "message": "通知を開いて、結果と報酬の受け取り方法をご確認ください。"
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "報酬を受け取る"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1が目標価格に到達しました 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "価格が$1に到達しました",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "価格が$1まで下落しました",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1は過去$3で$2変動しました",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "現在$1で取引されています",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
