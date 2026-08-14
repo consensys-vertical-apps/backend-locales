@@ -3,119 +3,139 @@
     "message": "Anda menerima $1 $2"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Anda menerima beberapa token"
+    "message": "Anda menerima dana."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Dana diterima"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Anda berhasil mengirimkan $1 $2"
+    "message": "Anda mengirim $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Anda berhasil mengirim beberapa token"
+    "message": "Anda mengirim dana."
   },
   "pushPlatformNotificationsFundsSentTitle": {
-    "message": "Dana terkirim"
+    "message": "Dana dikirim"
   },
   "pushPlatformNotificationsNftReceivedDescription": {
-    "message": "Anda menerima NFT baru"
+    "message": "Anda menerima NFT baru."
   },
   "pushPlatformNotificationsNftReceivedTitle": {
     "message": "NFT diterima"
   },
   "pushPlatformNotificationsNftSentDescription": {
-    "message": "Anda telah berhasil mengirim NFT"
+    "message": "Anda mengirim NFT."
   },
   "pushPlatformNotificationsNftSentTitle": {
-    "message": "NFT terkirim"
+    "message": "NFT dikirim"
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedDescription": {
-    "message": "Stake Lido berhasil"
+    "message": "Deposit stake Lido telah selesai."
   },
   "pushPlatformNotificationsStakingLidoStakeCompletedTitle": {
-    "message": "Stake selesai"
+    "message": "Stake didepositkan"
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnDescription": {
-    "message": "Stake Lido kini siap untuk ditarik"
+    "message": "Stake Lido siap untuk ditarik."
   },
   "pushPlatformNotificationsStakingLidoStakeReadyToBeWithdrawnTitle": {
-    "message": "Stake siap untuk penarikan"
+    "message": "Stake siap ditarik"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedDescription": {
-    "message": "Penarikan Lido berhasil"
+    "message": "Penarikan Lido telah selesai."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalCompletedTitle": {
     "message": "Penarikan selesai"
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedDescription": {
-    "message": "Permintaan penarikan Lido telah dikirimkan"
+    "message": "Permintaan penarikan Lido telah dikirim."
   },
   "pushPlatformNotificationsStakingLidoWithdrawalRequestedTitle": {
-    "message": "Permintaan penarikan"
+    "message": "Penarikan telah diminta"
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedDescription": {
-    "message": "Stake RocketPool berhasil"
+    "message": "Deposit stake Rocket Pool telah selesai."
   },
   "pushPlatformNotificationsStakingRocketpoolStakeCompletedTitle": {
-    "message": "Stake selesai"
+    "message": "Stake didepositkan"
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedDescription": {
-    "message": "Pembatalan stake RocketPool berhasil"
+    "message": "Pembatalan stake Rocket Pool telah selesai."
   },
   "pushPlatformNotificationsStakingRocketpoolUnstakeCompletedTitle": {
     "message": "Pembatalan stake selesai"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Swap MetaMask berhasil"
+    "message": "Swap telah selesai."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Swap selesai"
   },
   "pushNotificationLimitOrderFilledDescriptionLong": {
-    "message": "Posisi long $1 Anda kini dibuka.",
+    "message": "Posisi long $1 kini dibuka.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledDescriptionShort": {
-    "message": "Posisi short $1 Anda kini dibuka.",
+    "message": "Posisi short $1 kini dibuka.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationLimitOrderFilledTitle": {
     "message": "Order limit terpenuhi"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Posisi long $1 Anda telah ditutup.",
+    "message": "Posisi long $1 telah dilikuidasi.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Posisi short $1 Anda telah ditutup.",
+    "message": "Posisi short $1 telah dilikuidasi.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Posisi dilikuidasi"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Posisi long $1 Anda ditutup pada stop loss.",
+    "message": "Posisi long $1 ditutup pada stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Posisi short $1 Anda ditutup pada stop loss.",
+    "message": "Posisi short $1 ditutup pada stop loss.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Stop loss terpicu"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Posisi long $1 Anda ditutup pada take profit.",
+    "message": "Posisi long $1 ditutup pada take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Posisi short $1 Anda ditutup pada take profit.",
+    "message": "Posisi short $1 ditutup pada take profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit terpicu"
   },
-
+  "pushNotificationShieldClaimCreatedDescriptionShort": {
+    "message": "Klaim Anda telah dibuat."
+  },
+  "pushNotificationShieldClaimCreatedTitle": {
+    "message": "Klaim dibuat"
+  },
+  "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
+    "message": "Klaim Anda telah diperbarui."
+  },
+  "pushNotificationShieldClaimStatusUpdatedTitle": {
+    "message": "Klaim diperbarui"
+  },
+  "pushNotificationShieldSubscriptionCreatedDescriptionShort": {
+    "message": "Saat ini paket Anda sudah aktif."
+  },
+  "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Paket Anda dijeda. Perbarui pembayaran untuk melanjutkan."
+  },
+  "pushNotificationShieldSubscriptionTitle": {
+    "message": "Shield Transaksi MetaMask"
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX adalah HARI INI"
   },
@@ -126,7 +146,7 @@
     "message": "Permohonan Anda disetujui!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Atur Kartu MetaMask Anda hari ini dan mulailah menghasilkan."
+    "message": "Atur Kartu MetaMask Anda dan mulailah menghasilkan."
   },
   "pushNotificationCardKycFailedTitle": {
     "message": "Pembaruan Kartu MetaMask"
@@ -138,9 +158,26 @@
     "message": "Anda memenangkan $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Buka untuk melihat hasil Anda dan cara mengklaim hadiah Anda."
+    "message": "Buka untuk melihat hasilnya dan cara mengklaim reward Anda."
   },
-  "pushNotificationRewardsCampaignWinnerCtaText": {
-    "message": "Klaim hadiah"
+  "pushNotificationPriceAlertTitle": {
+    "message": "$1 mencapai target Anda 🎯",
+    "description": "$1 is the asset name"
+  },
+  "pushNotificationPriceAlertReachedDescription": {
+    "message": "Harga mencapai $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPriceAlertDroppedDescription": {
+    "message": "Harga turun ke $1",
+    "description": "$1 is the threshold set"
+  },
+  "pushNotificationPctAlertTitle": {
+    "message": "$1 bergerak ke $2 dalam $3 terakhir",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationPctAlertDescription": {
+    "message": "Saat ini diperdagangkan pada $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
