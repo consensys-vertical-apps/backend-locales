@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "Reçu de $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "Envoyé à $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "A reçu un NFT de $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "A envoyé un NFT à $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Staké"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Vous pouvez maintenant retirer vos $1 non stakés",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Retrait demandé"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "A échangé $1 contre $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Déstaking terminé"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "Votre demande d’annuler le staking de $1 $2 a été envoyée",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Déstaking demandé"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "Vous avez reçu $1 $2."
   },

@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "Đã nhận từ $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "Đã gửi đến $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "Đã nhận được NFT từ $1",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "Đã gửi NFT đến $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "Đã ký gửi"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "Bây giờ bạn có thể rút $1 được hủy ký gửi",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "Đã yêu cầu rút tiền"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "Đã hoán đổi $1 thành $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "Hoàn tất hủy ký gửi"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "Yêu cầu hủy ký gửi $1 $2 của bạn đã được gửi",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "Đã yêu cầu hủy ký gửi"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "Bạn đã nhận $1 $2."
   },
@@ -91,7 +131,7 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Vị thế đã bị thanh lý"
+    "message": "Đã thanh lý vị thế"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
     "message": "Vị thế mua khống $1 của bạn đã được đóng ở mức cắt lỗ.",
@@ -131,7 +171,11 @@
     "message": "Gói của bạn hiện đã được kích hoạt."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
+<<<<<<< HEAD
     "message": "Gói của bạn đã bị tạm dừng. Cập nhật thông tin thanh toán để tiếp tục."
+=======
+    "message": "Gói của bạn đã tạm dừng. Hãy cập nhật phương thức thanh toán để tiếp tục."
+>>>>>>> d51e518 (New Crowdin translations by Github Action)
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Lá chắn Giao dịch"
@@ -161,7 +205,11 @@
     "message": "Mở để xem kết quả và cách nhận phần thưởng."
   },
   "pushNotificationPriceAlertTitle": {
+<<<<<<< HEAD
     "message": "$1 đã đạt mục tiêu của bạn 🎯",
+=======
+    "message": "$1 đã đạt mức mục tiêu của bạn 🎯",
+>>>>>>> d51e518 (New Crowdin translations by Github Action)
     "description": "$1 is the asset name"
   },
   "pushNotificationPriceAlertReachedDescription": {
@@ -173,7 +221,11 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
+<<<<<<< HEAD
     "message": "$1 đã biến động $2 trong $3 vừa qua",
+=======
+    "message": "$1 đã biến động $2 trong $3 qua",
+>>>>>>> d51e518 (New Crowdin translations by Github Action)
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {

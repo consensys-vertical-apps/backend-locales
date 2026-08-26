@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "$1から受け取りました",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "$1に送りました",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "$1からNFTを受け取りました",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "$1にNFTを送りました",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "ステーキング中"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "ステーキングが解除された$1を引き出せるようになりました",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "出金がリクエストされました"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "$1を$2にスワップしました",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "ステーキングの解除が完了しました"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "$1 $2のステーキングを解除するリクエストが送信されました",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "ステーキングの解除がリクエストされました"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "$1 $2を受け取りました。"
   },

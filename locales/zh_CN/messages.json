@@ -1,4 +1,44 @@
 {
+  "inAppWalletActivityFundsReceivedTitle": {
+    "message": "已从 $1 收到",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityFundsSentTitle": {
+    "message": "已发送至 $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftReceivedTitle": {
+    "message": "已从 $1 收到 NFT",
+    "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityNftSentTitle": {
+    "message": "已发送 NFT 至 $1",
+    "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
+  },
+  "inAppWalletActivityStakeCompletedTitle": {
+    "message": "已质押"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
+    "message": "您现在可以提取已解除质押的 $1",
+    "description": "$1 is the staked asset symbol, e.g. stETH"
+  },
+  "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
+    "message": "已请求提取"
+  },
+  "inAppWalletActivitySwapCompletedTitle": {
+    "message": "已用 $1 兑换 $2",
+    "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
+  },
+  "inAppWalletActivityUnstakeCompletedTitle": {
+    "message": "解除质押完成"
+  },
+  "inAppWalletActivityUnstakeRequestedDescription": {
+    "message": "您解除质押 $1 $2 的请求已发送",
+    "description": "$1 is the formatted amount, $2 the asset symbol"
+  },
+  "inAppWalletActivityUnstakeRequestedTitle": {
+    "message": "已请求解除质押"
+  },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "您收到了 $1 $2。"
   },
