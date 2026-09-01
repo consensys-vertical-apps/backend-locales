@@ -4,22 +4,22 @@
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityFundsSentTitle": {
-    "message": "Στάλθηκαν σε $1",
+    "message": "Στείλατε σε $1",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftReceivedTitle": {
-    "message": "Ελήφθησαν NFT από $1",
+    "message": "Λάβατε NFT από $1",
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftSentTitle": {
-    "message": "Εστάλη NFT σε $1",
+    "message": "Στείλατε NFT σε $1",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityStakeCompletedTitle": {
     "message": "Ποντάρισμα"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
-    "message": "Μπορείτε τώρα να αποσύρετε την ακύρωση πονταρίσματος $1",
+    "message": "Μπορείτε πλέον να κάνετε ανάληψη των $1 από το ποντάρισμα που αποδεσμεύσατε",
     "description": "$1 is the staked asset symbol, e.g. stETH"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
@@ -30,14 +30,14 @@
     "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
   },
   "inAppWalletActivityUnstakeCompletedTitle": {
-    "message": "Ολοκλήρωση ακύρωσης πονταρίσματος"
+    "message": "Η αποδέσμευση από το ποντάρισμα ολοκληρώθηκε"
   },
   "inAppWalletActivityUnstakeRequestedDescription": {
-    "message": "Το αίτημά σας για ακύρωση πονταρίσματος $1 $2 έχει σταλεί",
+    "message": "Το αίτημά σας για αποδέσμευση των $1 $2 από το ποντάρισμα υποβλήθηκε",
     "description": "$1 is the formatted amount, $2 the asset symbol"
   },
   "inAppWalletActivityUnstakeRequestedTitle": {
-    "message": "Αίτημα ακύρωσης πονταρίσματος"
+    "message": "Αίτημα αποδέσμευσης πονταρίσματος"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "Λάβατε $1 $2"
@@ -218,6 +218,14 @@
   },
   "pushNotificationPctAlertDescription": {
     "message": "Η τρέχουσα τιμή είναι $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "Το $1 μετακινήθηκε κατά $2 τις τελευταίες $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
+    "message": "Τώρα βρίσκεται στα $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

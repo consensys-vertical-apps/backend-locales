@@ -219,5 +219,13 @@
   "pushNotificationPctAlertDescription": {
     "message": "Saat ini diperdagangkan pada $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1 bergerak $2 dalam $3 terakhir",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
+    "message": "Saat ini diperdagangkan pada $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

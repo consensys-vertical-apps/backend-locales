@@ -219,5 +219,13 @@
   "pushNotificationPctAlertDescription": {
     "message": "当前交易 $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1 在过去 $3 变动 $2",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
+    "message": "当前交易价格 $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }
