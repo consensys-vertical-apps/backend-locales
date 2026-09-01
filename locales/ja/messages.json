@@ -1,43 +1,43 @@
 {
   "inAppWalletActivityFundsReceivedTitle": {
-    "message": "$1から受け取りました",
+    "message": "$1から受取",
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityFundsSentTitle": {
-    "message": "$1に送りました",
+    "message": "$1に送信",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftReceivedTitle": {
-    "message": "$1からNFTを受け取りました",
+    "message": "$1からNFTを受取",
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftSentTitle": {
-    "message": "$1にNFTを送りました",
+    "message": "$1にNFTを送信",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityStakeCompletedTitle": {
     "message": "ステーキング中"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
-    "message": "ステーキングが解除された$1を引き出せるようになりました",
+    "message": "ステーキング解除された$1が引き出し可能になりました",
     "description": "$1 is the staked asset symbol, e.g. stETH"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
-    "message": "出金がリクエストされました"
+    "message": "引き出しリクエスト完了"
   },
   "inAppWalletActivitySwapCompletedTitle": {
-    "message": "$1を$2にスワップしました",
+    "message": "$1を$2に交換しました",
     "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
   },
   "inAppWalletActivityUnstakeCompletedTitle": {
-    "message": "ステーキングの解除が完了しました"
+    "message": "ステーキングの解除完了"
   },
   "inAppWalletActivityUnstakeRequestedDescription": {
-    "message": "$1 $2のステーキングを解除するリクエストが送信されました",
+    "message": "$1 $2のステーキング解除リクエストが送信されました",
     "description": "$1 is the formatted amount, $2 the asset symbol"
   },
   "inAppWalletActivityUnstakeRequestedTitle": {
-    "message": "ステーキングの解除がリクエストされました"
+    "message": "ステーキング解除のリクエスト完了"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
     "message": "$1 $2を受け取りました。"
@@ -218,6 +218,14 @@
   },
   "pushNotificationPctAlertDescription": {
     "message": "現在$1で取引されています",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1は直近$3で$2変動しました",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
+    "message": "現在、$1で取引されています",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

@@ -4,7 +4,7 @@
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityFundsSentTitle": {
-    "message": "$1 पर भेजा गया",
+    "message": "$1 को भेजा गया",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftReceivedTitle": {
@@ -12,7 +12,7 @@
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftSentTitle": {
-    "message": "NFT को $1 पर भेजा गया",
+    "message": "NFT को $1 को भेजा गया",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityStakeCompletedTitle": {
@@ -217,6 +217,14 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
+    "message": "अभी $1 पर ट्रेड कर रहा है",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1 पिछले $3 में $2 बदला",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
     "message": "अभी $1 पर ट्रेड कर रहा है",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }

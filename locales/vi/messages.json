@@ -19,14 +19,14 @@
     "message": "Đã ký gửi"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
-    "message": "Bây giờ bạn có thể rút $1 được hủy ký gửi",
+    "message": "Giờ đây, bạn có thể rút $1 đã hủy ký gửi",
     "description": "$1 is the staked asset symbol, e.g. stETH"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
-    "message": "Đã yêu cầu rút tiền"
+    "message": "Đã yêu cầu rút"
   },
   "inAppWalletActivitySwapCompletedTitle": {
-    "message": "Đã hoán đổi $1 thành $2",
+    "message": "Đã hoán đổi $1 lấy $2",
     "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
   },
   "inAppWalletActivityUnstakeCompletedTitle": {
@@ -131,7 +131,7 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
-    "message": "Đã thanh lý vị thế"
+    "message": "Vị thế đã bị thanh lý"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
     "message": "Vị thế mua khống $1 của bạn đã được đóng ở mức cắt lỗ.",
@@ -171,11 +171,7 @@
     "message": "Gói của bạn hiện đã được kích hoạt."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-<<<<<<< HEAD
     "message": "Gói của bạn đã bị tạm dừng. Cập nhật thông tin thanh toán để tiếp tục."
-=======
-    "message": "Gói của bạn đã tạm dừng. Hãy cập nhật phương thức thanh toán để tiếp tục."
->>>>>>> d51e518 (New Crowdin translations by Github Action)
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Lá chắn Giao dịch"
@@ -205,11 +201,7 @@
     "message": "Mở để xem kết quả và cách nhận phần thưởng."
   },
   "pushNotificationPriceAlertTitle": {
-<<<<<<< HEAD
     "message": "$1 đã đạt mục tiêu của bạn 🎯",
-=======
-    "message": "$1 đã đạt mức mục tiêu của bạn 🎯",
->>>>>>> d51e518 (New Crowdin translations by Github Action)
     "description": "$1 is the asset name"
   },
   "pushNotificationPriceAlertReachedDescription": {
@@ -221,15 +213,19 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-<<<<<<< HEAD
     "message": "$1 đã biến động $2 trong $3 vừa qua",
-=======
-    "message": "$1 đã biến động $2 trong $3 qua",
->>>>>>> d51e518 (New Crowdin translations by Github Action)
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
     "message": "Hiện đang giao dịch ở mức $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1 đã biến động $2 trong $3 qua",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
+    "message": "Hiện đang giao dịch tại mức giá $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
 }

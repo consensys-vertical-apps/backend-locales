@@ -8,25 +8,25 @@
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftReceivedTitle": {
-    "message": "NFT gönderen: $1",
+    "message": "$1 adresinden NFT alındı",
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityNftSentTitle": {
-    "message": "NFT alıcısı: $1",
+    "message": "$1 adresine NFT gönderildi",
     "description": "$1 is a shortened recipient address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityStakeCompletedTitle": {
-    "message": "Stake Edilen"
+    "message": "Stake edildi"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
-    "message": "Şu anda unstake $1 çekebilirsiniz",
+    "message": "Artık stake edilmemiş $1'inizi çekebilirsiniz",
     "description": "$1 is the staked asset symbol, e.g. stETH"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
-    "message": "Para çekme talep edildi"
+    "message": "Para çekme talebi oluşturuldu"
   },
   "inAppWalletActivitySwapCompletedTitle": {
-    "message": "$1 - $2 swap işlemi gerçekleştirildi",
+    "message": "$1, $2 ile swap edildi",
     "description": "$1 is the asset symbol swapped from, $2 the asset symbol swapped to"
   },
   "inAppWalletActivityUnstakeCompletedTitle": {
@@ -217,6 +217,14 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
+    "message": "Şu anki işlem fiyatı $1",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1 son $3 içinde $2 hareket etti",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
     "message": "Şu anki işlem fiyatı $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }

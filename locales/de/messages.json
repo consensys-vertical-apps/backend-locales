@@ -1,6 +1,6 @@
 {
   "inAppWalletActivityFundsReceivedTitle": {
-    "message": "Von $1 empfanen",
+    "message": "Von $1 empfangen",
     "description": "$1 is a shortened sender address, e.g. 0x1234...5678"
   },
   "inAppWalletActivityFundsSentTitle": {
@@ -19,7 +19,7 @@
     "message": "Eingesetzt"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
-    "message": "Sie können sich nun Ihre Unstaked $1 auszahlen lassen",
+    "message": "Sie können sich nun Ihre unstaked $1 auszahlen lassen",
     "description": "$1 is the staked asset symbol, e.g. stETH"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
@@ -33,7 +33,7 @@
     "message": "Unstaking abschließen"
   },
   "inAppWalletActivityUnstakeRequestedDescription": {
-    "message": "Ihre Anfrage zum Unstake $1 $2 wurde gesendet",
+    "message": "Ihre Anfrage zum Unstake von $1 $2 wurde gesendet",
     "description": "$1 is the formatted amount, $2 the asset symbol"
   },
   "inAppWalletActivityUnstakeRequestedTitle": {
@@ -217,6 +217,14 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
+    "message": "Derzeit wird zu $1 gehandelt",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1 bewegte sich $2 für $3",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
     "message": "Derzeit wird zu $1 gehandelt",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }

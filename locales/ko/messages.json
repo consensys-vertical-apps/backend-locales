@@ -19,7 +19,7 @@
     "message": "스테이킹 완료"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnDescription": {
-    "message": "이제 언스테이킹한 $1을(를) 인출할 수 있습니다",
+    "message": "이제 언스테이킹한 $1을(를) 출금할 수 있습니다",
     "description": "$1 is the staked asset symbol, e.g. stETH"
   },
   "inAppWalletActivityStakeReadyToBeWithdrawnTitle": {
@@ -217,6 +217,14 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
+    "message": "현재 $1에 거래 중",
+    "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "pushNotificationWatchlistPriceAlertTitle": {
+    "message": "$1이(가) 최근 $3 동안 $2 변동했습니다",
+    "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
+  },
+  "pushNotificationWatchlistPriceAlertDescription": {
     "message": "현재 $1에 거래 중",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   }
