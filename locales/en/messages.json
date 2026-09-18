@@ -111,7 +111,6 @@
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Swap complete"
   },
-
   "pushNotificationLimitOrderFilledDescriptionLong": {
     "message": "Your $1 long position is now open.",
     "description": "$1 is the asset symbol"
@@ -156,7 +155,6 @@
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit triggered"
   },
-
   "pushNotificationShieldClaimCreatedDescriptionShort": {
     "message": "Your claim has been created."
   },
@@ -178,7 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
   },
-
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is today"
   },
@@ -197,14 +194,12 @@
   "pushNotificationCardKycFailedDescription": {
     "message": "View your application decision."
   },
-
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
     "message": "Open to see your results and how to claim your reward."
   },
-
   "pushNotificationPriceAlertTitle": {
     "message": "$1 hit your target 🎯",
     "description": "$1 is the asset name"
@@ -217,7 +212,6 @@
     "message": "Price dropped to $1",
     "description": "$1 is the threshold set"
   },
-
   "pushNotificationPctAlertTitle": {
     "message": "$1 moved $2 last $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
@@ -226,7 +220,6 @@
     "message": "Now trading at $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
-
   "pushNotificationWatchlistPriceAlertTitle": {
     "message": "$1 moved $2 last $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
@@ -234,5 +227,21 @@
   "pushNotificationWatchlistPriceAlertDescription": {
     "message": "Now trading at $1",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobileBannerTitle": {
+    "message": "A message for you",
+    "description": "Title for the MetaMask mobile outreach banner shown to allowlisted users"
+  },
+  "outreachMobileBannerBody": {
+    "message": "Open MetaMask to see details.",
+    "description": "Body copy for the MetaMask mobile outreach banner shown to allowlisted users"
+  },
+  "outreachMobileBannerCta": {
+    "message": "Learn more",
+    "description": "CTA button label for the MetaMask mobile outreach banner"
+  },
+  "outreachMobileBannerCtaUrl": {
+    "message": "https://metamask.io",
+    "description": "CTA URL for the MetaMask mobile outreach banner"
   }
 }
