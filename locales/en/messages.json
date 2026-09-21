@@ -235,9 +235,5 @@
   "outreachMobilePerpsBannerBody": {
     "message": "Open MetaMask to see details.",
     "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
-  },
-  "outreachMobilePerpsBannerCta": {
-    "message": "Learn more",
-    "description": "CTA button label for the MetaMask mobile perps outreach banner"
   }
 }
