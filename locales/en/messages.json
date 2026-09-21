@@ -229,11 +229,11 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "outreachMobilePerpsBannerTitle": {
-    "message": "A message for you",
+    "message": "You're a top perp trader",
     "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
   },
   "outreachMobilePerpsBannerBody": {
-    "message": "Open MetaMask to see details.",
+    "message": "Shape what we build next and join an exclusive trip with MetaMask.",
     "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
   },
   "outreachMobilePerpsBannerCta": {
