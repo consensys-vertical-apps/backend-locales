@@ -176,6 +176,27 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
   },
+  "pushNotificationMoneyAccountSubscriptionTitle": {
+    "message": "Metamask Orange Subscription"
+  },
+  "pushNotificationMoneyAccountSubscriptionCreatedDescriptionShort": {
+    "message": "Your Metamask Orange Subscription subscription is now active."
+  },
+  "pushNotificationMoneyAccountSubscriptionPaymentSucceededDescriptionShort": {
+    "message": "Your Metamask Orange Subscription payment was successful."
+  },
+  "pushNotificationMoneyAccountSubscriptionPaymentFailedDescriptionShort": {
+    "message": "Your Metamask Orange Subscription payment failed."
+  },
+  "pushNotificationMoneyAccountSubscriptionRenewedDescriptionShort": {
+    "message": "Your Metamask Orange Subscription subscription has been renewed."
+  },
+  "pushNotificationMoneyAccountSubscriptionCancelledDescriptionShort": {
+    "message": "Your Metamask Orange Subscription subscription has been canceled."
+  },
+  "pushNotificationMoneyAccountSubscriptionExpiredDescriptionShort": {
+    "message": "Your Metamask Orange Subscription subscription has expired."
+  },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is today"
   },
