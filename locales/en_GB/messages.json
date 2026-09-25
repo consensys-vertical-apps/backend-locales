@@ -142,23 +142,12 @@
   "pushNotificationShieldUpdatePaymentCta": {
     "message": "Update payment"
   },
-  "pushNotificationMembershipTitle": {
+
+  "pushNotificationMembershipRenewedTitle": {
     "message": "Metamask membership"
-  },
-  "pushNotificationMembershipCreatedDescription": {
-    "message": "Your membership is now active."
-  },
-  "pushNotificationMembershipPaymentSucceededDescription": {
-    "message": "Your Metamask membership payment was successful."
   },
   "pushNotificationMembershipRenewedDescription": {
     "message": "Your membership has been renewed."
-  },
-  "pushNotificationMembershipCancelledDescription": {
-    "message": "Your membership has been cancelled."
-  },
-  "pushNotificationMembershipExpiredDescription": {
-    "message": "Your membership has expired."
   },
   "pushNotificationMembershipFundLowTitle": {
     "message": "Add funds by $1",
