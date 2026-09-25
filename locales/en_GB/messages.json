@@ -143,12 +143,6 @@
     "message": "Update payment"
   },
 
-  "pushNotificationMembershipRenewedTitle": {
-    "message": "Metamask membership"
-  },
-  "pushNotificationMembershipRenewedDescription": {
-    "message": "Your membership has been renewed."
-  },
   "pushNotificationMembershipFundLowTitle": {
     "message": "Add funds by $1",
     "description": "$1 is the latest date by which the account needs to be funded."
