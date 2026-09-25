@@ -176,26 +176,55 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
   },
-  "pushNotificationMoneyAccountSubscriptionTitle": {
-    "message": "Metamask Orange Subscription"
+  "pushNotificationMembershipTitle": {
+    "message": "Metamask membership"
   },
-  "pushNotificationMoneyAccountSubscriptionCreatedDescriptionShort": {
-    "message": "Your Metamask Orange Subscription subscription is now active."
+  "pushNotificationMembershipCreatedDescription": {
+    "message": "Your membership is now active."
   },
-  "pushNotificationMoneyAccountSubscriptionPaymentSucceededDescriptionShort": {
-    "message": "Your Metamask Orange Subscription payment was successful."
+  "pushNotificationMembershipPaymentSucceededDescription": {
+    "message": "Your Metamask membership payment was successful."
   },
-  "pushNotificationMoneyAccountSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Your Metamask Orange Subscription payment failed."
+  "pushNotificationMembershipRenewedDescription": {
+    "message": "Your membership has been renewed."
   },
-  "pushNotificationMoneyAccountSubscriptionRenewedDescriptionShort": {
-    "message": "Your Metamask Orange Subscription subscription has been renewed."
+  "pushNotificationMembershipCancelledDescription": {
+    "message": "Your membership has been canceled."
   },
-  "pushNotificationMoneyAccountSubscriptionCancelledDescriptionShort": {
-    "message": "Your Metamask Orange Subscription subscription has been canceled."
+  "pushNotificationMembershipExpiredDescription": {
+    "message": "Your membership has expired."
   },
-  "pushNotificationMoneyAccountSubscriptionExpiredDescriptionShort": {
-    "message": "Your Metamask Orange Subscription subscription has expired."
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Add funds by $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
+  },
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Your money account is low. Add funds to keep your membership"
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Membership renewal failed"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Balance too low. Add funds to your Money account to restore membership."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Payment failed"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Add funds to your Money account to restore membership."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Your membership is inactive"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Add funds to your Money account to regain access to your benefits."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Your plan renews on $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Your plan renews in one week. You're all set - no action needed."
   },
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is today"
