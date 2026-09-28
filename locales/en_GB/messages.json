@@ -143,6 +143,39 @@
     "message": "Update payment"
   },
 
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Add funds by $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
+  },
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Your money account is low. Add funds to keep your membership"
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Membership renewal failed"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Balance too low. Add funds to your Money account to restore membership."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Payment failed"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Add funds to your Money account to restore membership."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Your membership is inactive"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Add funds to your Money account to regain access to your benefits."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Your plan renews on $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Your plan renews in one week. You're all set - no action needed."
+  },
+
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is TODAY"
   },
