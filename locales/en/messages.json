@@ -188,13 +188,13 @@
     "message": "Membership renewal failed"
   },
   "pushNotificationMembershipRenewalFailedDescription": {
-    "message": "Your membership didn't renew because your Money account balance was too low. Add funds to restore it."
+    "message": "Your Money account balance was too low. Add funds to restore membership."
   },
   "pushNotificationMembershipPaymentFailedTitle": {
     "message": "Payment failed"
   },
   "pushNotificationMembershipPaymentFailedDescription": {
-    "message": "We couldn't charge your Money account. Add funds to restore your membership."
+    "message": "We couldn't charge your Money account. Add funds to restore membership."
   },
   "pushNotificationMembershipInactiveTitle": {
     "message": "Your membership is inactive"
