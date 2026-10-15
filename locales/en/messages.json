@@ -40,19 +40,19 @@
     "message": "Unstaking requested"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "You received $1 $2."
+    "message": "$1 $2 is now in your wallet."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "You received funds."
+    "message": "Open MetaMask to see the details."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Funds received"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "You sent $1 $2."
+    "message": "$1 $2 left your wallet."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "You sent funds."
+    "message": "Open MetaMask to see the details."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Funds sent"
@@ -106,7 +106,7 @@
     "message": "Unstake complete"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Your swap is complete."
+    "message": "Your swapped tokens are in your wallet."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Swap complete"
@@ -123,46 +123,46 @@
     "message": "Limit order filled"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Your $1 long position was liquidated.",
+    "message": "Your $1 long position closed because it hit its liquidation price.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Your $1 short position was liquidated.",
+    "message": "Your $1 short position closed because it hit its liquidation price.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Position liquidated"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Your $1 long closed at your stop loss.",
+    "message": "Your $1 long position closed to limit your losses.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Your $1 short closed at your stop loss.",
+    "message": "Your $1 short position closed to limit your losses.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Stop loss triggered"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Your $1 long closed at your take profit.",
+    "message": "Your $1 long position closed and locked in your profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Your $1 short closed at your take profit.",
+    "message": "Your $1 short position closed and locked in your profit.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take profit triggered"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Your claim has been created."
+    "message": "We'll let you know when there's an update."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Claim created"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Your claim has an update."
+    "message": "Open MetaMask to see the latest status."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Claim updated"
@@ -171,7 +171,7 @@
     "message": "Your plan is now active."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Your plan is paused. Update your payment to continue."
+    "message": "Your plan is paused. Update your payment method to resume your plan."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
@@ -182,19 +182,19 @@
     "description": "$1 is the latest date by which the account needs to be funded."
   },
   "pushNotificationMembershipFundLowDescription": {
-    "message": "Your money account is low. Add funds to keep your membership"
+    "message": "Your Money account balance is low, so your membership may lapse."
   },
   "pushNotificationMembershipRenewalFailedTitle": {
     "message": "Membership renewal failed"
   },
   "pushNotificationMembershipRenewalFailedDescription": {
-    "message": "Balance too low. Add funds to your Money account to restore membership."
+    "message": "Your membership didn't renew because your Money account balance was too low. Add funds to restore it."
   },
   "pushNotificationMembershipPaymentFailedTitle": {
     "message": "Payment failed"
   },
   "pushNotificationMembershipPaymentFailedDescription": {
-    "message": "Add funds to your Money account to restore membership."
+    "message": "We couldn't charge your Money account. Add funds to restore your membership."
   },
   "pushNotificationMembershipInactiveTitle": {
     "message": "Your membership is inactive"
@@ -203,36 +203,30 @@
     "message": "Add funds to your Money account to regain access to your benefits."
   },
   "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "Your plan renews on $1",
+    "message": "Your membership renews on $1",
     "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
-    "message": "Your plan renews in one week. You're all set - no action needed."
+    "message": "We'll renew it automatically."
   },
 
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX is today"
-  },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Pick the winner and get paid in USDC."
-  },
   "pushNotificationCardKycCompletedTitle": {
     "message": "You're approved!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Set up your MetaMask Card and start earning."
+    "message": "Set up your MetaMask Card and start spending."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask Card update"
+    "message": "Card application update"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "View your application decision."
+    "message": "Open MetaMask to see your decision."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "You won the $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Open to see your results and how to claim your reward."
+    "message": "See your results and claim your reward."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 hit your target 🎯",
@@ -247,7 +241,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1 moved $2 last $3",
+    "message": "$1 moved $2 in the last $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -255,15 +249,15 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "$1 moved $2 last $3",
+    "message": "$1 moved $2 in the last $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Now trading at $1",
+    "message": "Now trading at $1. It's on your watchlist.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "outreachMobilePerpsBannerTitle": {
-    "message": "You're a top perp trader",
+    "message": "You're a top perps trader",
     "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
   },
   "outreachMobilePerpsBannerBody": {
