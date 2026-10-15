@@ -200,7 +200,7 @@
     "message": "Your membership is inactive"
   },
   "pushNotificationMembershipInactiveDescription": {
-    "message": "Add funds to your Money account to regain access to your benefits."
+    "message": "Add funds to your Money account to turn it back on."
   },
   "pushNotificationMembershipAnnualRenewNoticeTitle": {
     "message": "Your membership renews on $1",
