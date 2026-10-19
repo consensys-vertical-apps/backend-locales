@@ -228,6 +228,30 @@
   "pushNotificationCardKycFailedDescription": {
     "message": "View your application decision."
   },
+  "pushNotificationMoneyKycVerifiedTitle": {
+    "message": "You’re verified ✅"
+  },
+  "pushNotificationMoneyKycVerifiedDescription": {
+    "message": "Bank transfers are now available for your Money account."
+  },
+  "pushNotificationMoneyKycVerificationUpdateTitle": {
+    "message": "Verification update"
+  },
+  "pushNotificationMoneyKycVerificationUpdateDescription": {
+    "message": "Open MetaMask to see your result."
+  },
+  "pushNotificationMoneyKycMoreInformationRequiredTitle": {
+    "message": "We need more information"
+  },
+  "pushNotificationMoneyKycMoreInformationRequiredDescription": {
+    "message": "Share a few more details to finish verifying your identity."
+  },
+  "pushNotificationMoneyKycDetailsUpdateRequiredTitle": {
+    "message": "Check your details"
+  },
+  "pushNotificationMoneyKycDetailsUpdateRequiredDescription": {
+    "message": "Something you submitted needs a fix. Update to finish verification."
+  },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "You won the $1!"
   },
