@@ -240,12 +240,6 @@
   "pushNotificationMoneyKycVerificationUpdateDescription": {
     "message": "Open MetaMask to see your result."
   },
-  "pushNotificationMoneyKycMoreInformationRequiredTitle": {
-    "message": "We need more information"
-  },
-  "pushNotificationMoneyKycMoreInformationRequiredDescription": {
-    "message": "Share a few more details to finish verifying your identity."
-  },
   "pushNotificationMoneyKycDetailsUpdateRequiredTitle": {
     "message": "Check your details"
   },
