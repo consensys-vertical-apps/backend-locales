@@ -191,10 +191,10 @@
     "message": "Your Money account balance was too low. Add funds to restore membership."
   },
   "pushNotificationMembershipPaymentFailedTitle": {
-    "message": "Payment failed"
+    "message": "Membership payment overdue"
   },
   "pushNotificationMembershipPaymentFailedDescription": {
-    "message": "We couldn't charge your Money account. Add funds to restore membership."
+    "message": "Move funds to your Money account to restore access."
   },
   "pushNotificationMembershipInactiveTitle": {
     "message": "Your membership is inactive"
