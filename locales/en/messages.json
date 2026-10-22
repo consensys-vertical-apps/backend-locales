@@ -222,6 +222,24 @@
   "pushNotificationCardKycFailedDescription": {
     "message": "Open MetaMask to see your decision."
   },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "You’re verified ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Bank transfers are now available for your Money account."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Verification update"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Open MetaMask to see your result."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Check your details"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Something you submitted needs a fix. Update to finish verification."
+  },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "You won the $1!"
   },
