@@ -267,5 +267,33 @@
   "outreachMobilePerpsBannerCta": {
     "message": "Learn more",
     "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Order expired"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Tap to create a new order.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Order canceled"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. A smart account is required for limit orders. Create a new order to upgrade.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Order canceled"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Your limit price was reached, but you had insufficient source token balance.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Order failed"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Your limit price was reached, but execution failed.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }
