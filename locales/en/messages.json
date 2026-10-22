@@ -209,6 +209,18 @@
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "Your plan renews in one week. You're all set - no action needed."
   },
+  "pushNotificationVbaAccountApprovedTitle": {
+    "message": "Your account is approved"
+  },
+  "pushNotificationVbaAccountApprovedDescription": {
+    "message": "Open MetaMask to finish setting up your account."
+  },
+  "pushNotificationVbaDepositDetailsReadyTitle": {
+    "message": "Your deposit details are ready"
+  },
+  "pushNotificationVbaDepositDetailsReadyDescription": {
+    "message": "You can now deposit to your account."
+  },
 
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is today"
