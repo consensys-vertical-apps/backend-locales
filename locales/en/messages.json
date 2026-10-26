@@ -209,6 +209,18 @@
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "We'll renew it automatically."
   },
+  "pushNotificationVbaAccountApprovedTitle": {
+    "message": "Your account is approved"
+  },
+  "pushNotificationVbaAccountApprovedDescription": {
+    "message": "Open MetaMask to finish setting up your account."
+  },
+  "pushNotificationVbaDepositDetailsReadyTitle": {
+    "message": "Your deposit details are ready"
+  },
+  "pushNotificationVbaDepositDetailsReadyDescription": {
+    "message": "You can now deposit to your account."
+  },
 
   "pushNotificationCardKycCompletedTitle": {
     "message": "You're approved!"
