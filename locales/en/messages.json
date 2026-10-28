@@ -217,6 +217,13 @@
     "message": "We'll charge $1 to your Money account. Cancel anytime.",
     "description": "$1 is the price of the membership, varies on the plan"
   },
+  "pushNotificationMembershipTrialEndFundLowTitle": {
+    "message": "Add funds by $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
+  },
+  "pushNotificationMembershipTrialEndFundLowDescription": {
+    "message": "Please add funds to your Money account to continue with Orange."
+  },
 
   "pushNotificationCardKycCompletedTitle": {
     "message": "You're approved!"
