@@ -240,6 +240,13 @@
   "pushNotificationKycDetailsUpdateRequiredDescription": {
     "message": "Something you submitted needs a fix. Update to finish verification."
   },
+  "pushNotificationVbaDepositCompletedTitle": {
+    "message": "Funds added"
+  },
+  "pushNotificationVbaDepositCompletedDescription": {
+    "message": "$1 $2 added to your Money account.",
+    "description": "$1 is the crypto amount, $2 is the asset symbol"
+  },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "You won the $1!"
   },
