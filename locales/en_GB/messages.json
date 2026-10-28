@@ -190,6 +190,9 @@
   "pushNotificationMembershipTrialEndFundLowDescription": {
     "message": "Please add funds to your Money account to continue with Orange."
   },
+  "pushNotificationMembershipAddFundsCta": {
+    "message": "Add funds"
+  },
 
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is TODAY"

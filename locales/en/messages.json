@@ -224,6 +224,9 @@
   "pushNotificationMembershipTrialEndFundLowDescription": {
     "message": "Please add funds to your Money account to continue with Orange."
   },
+  "pushNotificationMembershipAddFundsCta": {
+    "message": "Add funds"
+  },
 
   "pushNotificationCardKycCompletedTitle": {
     "message": "You're approved!"
