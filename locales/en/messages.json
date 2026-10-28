@@ -209,6 +209,14 @@
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "We'll renew it automatically."
   },
+  "pushNotificationMembershipTrialEndSoonTitle": {
+    "message": "Your free trial ends tomorrow",
+    "description": "Title for the MetaMask mobile membership trial end soon push notification"
+  },
+  "pushNotificationMembershipTrialEndSoonDescription": {
+    "message": "We'll charge $1 to your Money account. Cancel anytime.",
+    "description": "$1 is the price of the membership, varies on the plan"
+  },
 
   "pushNotificationCardKycCompletedTitle": {
     "message": "You're approved!"
