@@ -40,19 +40,19 @@
     "message": "Hiniling ang pag-unstake"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Nakatanggap ka ng $1 $2."
+    "message": "Nasa wallet mo na ang $1 $2."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Nakatanggap ka ng mga pondo."
+    "message": "Buksan ang MetaMask para makita ang mga detalye."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Natanggap ang pondo"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Nagpadala ka ng $1 $2."
+    "message": "Lumabas mula sa wallet mo ang $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Nagpadala ka ng mga pondo."
+    "message": "Buksan ang MetaMask para makita ang mga detalye."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Naipadala ang mga pondo"
@@ -106,7 +106,7 @@
     "message": "Nakumpleto ang pag-unstake"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Nakumpleto ang pag-swap mo."
+    "message": "Nasa wallet mo ang mga na-swap na token."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Nakumpleto ang pag-swap"
@@ -123,46 +123,46 @@
     "message": "Na-fill ang limit order"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Na-liquidate na ang long position mo na $1.",
+    "message": "Umabot na sa liquidation price nito ang $1 long mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Na-liquidate na ang short position mo na $1.",
+    "message": "Umabot na sa liquidation price nito ang $1 short mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Na-liquidate ang position"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Nag-close ang iyong $1 na long sa stop loss mo.",
+    "message": "Nag-close ang $1 na long na posisyon mo sa stop loss mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Nag-close ang iyong $1 na short sa stop loss mo.",
+    "message": "Nag-close ang $1 na short na posisyon mo sa stop loss mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Na-trigger ang stop loss"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Nag-close ang iyong $1 na long sa take profit mo.",
+    "message": "Nag-close ang $1 na long na posisyon mo sa take profit mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Nag-close ang iyong $1 na short sa take profit mo.",
+    "message": "Nag-close ang $1 na short na posisyon mo sa take profit mo.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Na-trigger ang take profit"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Nagawa na ang claim mo."
+    "message": "Ipapaalam namin sa iyo kapag may update na."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Nagawa ang claim"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "May update sa claim mo."
+    "message": "Buksan ang MetaMask para makita ang pinakabagong katayuan."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Na-update ang claim"
@@ -171,34 +171,78 @@
     "message": "Aktibo na ngayon ang plan mo."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Naka-pause ang plan mo. I-update ang bayad mo para magpatuloy."
+    "message": "Naka-pause ang plan mo. I-update ang paraan ng pagbabayad mo para maipagpatuloy ang plan mo."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "Panangga sa Transaksyon sa MetaMask"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX ay NGAYON"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Magdagdag ng mga pondo bago lumipas ang $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Sino ang mananalo? Pumili ng panalo, makatanggap ng bayad sa USDC. Maghula ngayon."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Mababa ang balanse ng Money account mo, kaya posibleng mag-lapse ang membership mo."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Hindi na-renew ang membership"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Masyadong mababa ang balanse ng Money account mo. Magdagdag ng mga pondo para ibalik ang membership."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Overdue na ang bayad sa membership"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Maglipat ng pondo sa Money account mo para maibalik ang access."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Hindi aktibo ang membership mo"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Magdagdag ng pondo sa Money account para i-on itong muli."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Mare-renew ang membership mo sa $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Awtomatiko namin itong ire-renew."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Naaprubahan ka!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "I-set up ang MetaMask Card mo ngayon at simulang kumita."
+    "message": "I-set up ang MetaMask Card mo at simulang gumastos."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Update sa MetaMask Card"
+    "message": "Update sa aplikasyon para sa card"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Tingnan ang desisyon sa aplikasyon mo."
+    "message": "Buksan ang MetaMask para makita ang desisyon mo."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Naberipika ka na ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Available na ngayon ang mga bank transfer para sa Money account mo."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Update sa pagberipika"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Buksan ang MetaMask para makita ang resulta mo."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Suriin ang mga detalye mo"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "May kailangang ayusin sa isinumite mo. Mag-update para tapusin ang pagberipika."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "Nanalo ka ng $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Buksan para makita ang iyong mga resulta at kung paano i-claim ang iyong reward."
+    "message": "Tingnan ang mga resulta mo at i-claim ang iyong reward."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "Naabot ng $1 ang target mo 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "Gumalaw ang $1 ng $2 sa nakalipas na $3",
+    "message": "Naglipat si $1 ng $2 sa huling $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -221,11 +265,51 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "Gumalaw ang $1 ng $2 sa nakalipas na $3",
+    "message": "Naglipat si $1 ng $2 sa huling $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Nagti-trade ngayon sa $1",
+    "message": "Nagti-trade ngayon sa $1. Nasa watchlist mo ito.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "Isa ka sa mga nangungunang perps trader",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Tulungan kaming hubugin ang susunod naming bubuuin at sumali sa aming VIP program.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Matuto pa",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Nag-expire ang order"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Mag-tap para gumawa ng bagong order.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Nakansela ang order"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Kinakailangan smart account para sa mga limit order. Gumawa ng bagong order para mag-upgrade.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Nakansela ang order"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Naabot ang limit price mo, pero kulang ang balanse mo sa source token.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Nabigo ang order"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Naabot ang limit price mo, pero nabigo ang pagpapatupad.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

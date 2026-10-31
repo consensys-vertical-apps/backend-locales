@@ -40,19 +40,19 @@
     "message": "ステーキング解除のリクエスト完了"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "$1 $2を受け取りました。"
+    "message": "$1 $2がウォレットに入金されました。"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "資金を受け取りました。"
+    "message": "MetaMaskを開いて詳細をご確認ください。"
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "資金の受領"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "$1 $2を送金しました。"
+    "message": "$1 $2がウォレットから送金されました。"
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "資金が送金されました。"
+    "message": "MetaMaskを開いて詳細をご確認ください。"
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "送金完了"
@@ -106,7 +106,7 @@
     "message": "ステーキングの解除完了"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "スワップに成功しました。"
+    "message": "交換したトークンがウォレットに入金されました。"
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "スワップ完了"
@@ -123,46 +123,46 @@
     "message": "リミット注文が約定しました"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "$1のロングポジションが清算されました。",
+    "message": "$1のロングが清算価格に達しました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "$1のショートポジションが清算されました。",
+    "message": "$1のショートが清算価格に達しました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "ポジションが清算されました"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "$1のロングがストップロスでクローズされました。",
+    "message": "$1のロングポジションがストップロスでクローズされました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "$1のショートがストップロスでクローズされました。",
+    "message": "$1のショートポジションがストップロスでクローズされました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "ストップロスが発動しました"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "$1のロングが利益確定でクローズされました。",
+    "message": "$1のロングポジションが利益確定でクローズされました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "$1のショートが利益確定でクローズされました。",
+    "message": "$1のショートポジションが利益確定でクローズされました。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "利益確定が発動しました"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "補償申請が作成されました。"
+    "message": "新しい情報があればお知らせします。"
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "申請の作成完了"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "補償申請についてお知らせがあります。"
+    "message": "MetaMaskを開いて最新のステータスをご確認ください。"
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "申請状況の更新"
@@ -171,34 +171,78 @@
     "message": "プランが有効になりました。"
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "プランが停止されました。支払いを更新して続行してください。"
+    "message": "プランが停止されました。プランを再開するには、お支払い方法を更新してください。"
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMaskトランザクションシールド"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LXは本日です"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "$1までに入金してください",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. 誰が勝利するか？勝者を選んで、USDCで支払いを受け取ります。今すぐ予測してください。"
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Money Accountの残高が少なくなっているため、メンバーシップが失効する可能性があります。"
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "メンバーシップの更新に失敗しました"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Money Accountの残高が不足しています。メンバーシップを復元するには入金してください。"
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "メンバーシップの支払期限が過ぎています"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "アクセス権を復元するには、Money Accountに入金してください。"
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "メンバーシップが無効になっています"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "有効にするには、Money Accountに入金してください。"
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "メンバーシップが$1に更新されます",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "更新は自動で行われます。"
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "承認されました！"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "MetaMask Cardをセットアップして、キャッシュバックの獲得を始めましょう。"
+    "message": "MetaMask Cardをセットアップして、支払いを始めましょう。"
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask Cardについてのお知らせ"
+    "message": "カードのお申し込みに関するお知らせ"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "審査結果をご覧ください。"
+    "message": "MetaMaskを開いて審査結果をご確認ください。"
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "本人確認が完了しました ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Money Accountで銀行振込が利用可能になりました。"
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "本人確認に関するお知らせ"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "MetaMaskを開いて結果をご確認ください。"
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "詳細をご確認ください"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "ご提出いただいた情報の修正が必要です。更新を行って、本人確認を完了させてください。"
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "$1を獲得しました！"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "通知を開いて、結果と報酬の受け取り方法をご確認ください。"
+    "message": "結果を確認して、報酬をお受け取りください。"
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1が目標価格に到達しました 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1は過去$3で$2変動しました",
+    "message": "$1は直近$3で$2変動しました",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -225,7 +269,47 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "現在、$1で取引されています",
+    "message": "現在$1で取引されています。ウォッチリストに登録されています。",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "あなたはパーペチュアルのトップトレーダーです",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "今後の製品開発に意見を反映させ、VIPプログラムに参加しましょう。",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "詳細を見る",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "注文が失効しました"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3。新規注文を作成するにはタップしてください。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "注文が取り消されました"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3。リミット注文を出すにはスマートアカウントが必要です。新規注文を作成してアップグレードしてください。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "注文が取り消されました"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3。リミット価格に達しましたが、交換元となるトークンの残高が不足しています。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "注文が失敗しました"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3。リミット価格に達しましたが、執行できませんでした。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

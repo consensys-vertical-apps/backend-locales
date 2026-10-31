@@ -40,19 +40,19 @@
     "message": "Unstake talep edildi"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "$1 $2 aldınız."
+    "message": "$1 $2 artık cüzdanınızda."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Fon aldınız."
+    "message": "Ayrıntıları görmek için MetaMask'i açın."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Fon alındı"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "$1 $2 gönderdiniz."
+    "message": "$1 $2 cüzdanınızdan çıktı."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Fon gönderdiniz."
+    "message": "Ayrıntıları görmek için MetaMask'i açın."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Fon gönderildi"
@@ -106,7 +106,7 @@
     "message": "Unstake etme işlemi tamamlandı"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Takas işleminiz tamamlandı."
+    "message": "Takas ettiğiniz tokenlar cüzdanınızda."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Takas işlemi tamamlandı"
@@ -123,46 +123,46 @@
     "message": "Limit emri gerçekleşti"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz likidasyona uğradı.",
+    "message": "$1 long pozisyonunuz likidasyon fiyatına ulaştı.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz likidasyona uğradı.",
+    "message": "$1 short pozisyonunuz likidasyon fiyatına ulaştı.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Pozisyon likidasyona uğradı"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz zararda durdur noktanızda kapandı.",
+    "message": "$1 long pozisyonunuz zararda durdur seviyesinde kapatıldı.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz zararda durdur noktanızda kapandı.",
+    "message": "$1 short pozisyonunuz zararda durdur seviyesinde kapatıldı.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Zararda durdur tetiklendi"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "$1 uzun pozisyonunuz kazancı al noktanızda kapandı.",
+    "message": "$1 long pozisyonunuz kazancı al seviyesinde kapatıldı.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "$1 kısa pozisyonunuz kazancı al noktanızda kapandı.",
+    "message": "$1 short pozisyonunuz kazancı al seviyesinde kapatıldı.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Kazancı al tetiklendi"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Talebiniz oluşturuldu."
+    "message": "Güncelleme olduğunda size bildireceğiz."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Talep oluşturuldu"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Talebinizde bir güncelleme var."
+    "message": "Son durumu görmek için MetaMask'i açın."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Talep güncellendi"
@@ -171,34 +171,78 @@
     "message": "Planınız artık aktif."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Planınız duraklatıldı. Devam etmek için ödemenizi güncelleyin."
+    "message": "Planınız duraklatıldı. Planınızı sürdürmek için ödeme yönteminizi güncelleyin."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask İşlem Kalkanı"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX BUGÜN"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "$1 itibarıyla fon ekleyin",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Kim kazanacak? Kazananı seçin, USDC ile ödeme alın. Şimdi tahmin edin."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Money account bakiyeniz düşük, bu nedenle üyeliğiniz sonlanabilir."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Üyelik yenileme işlemi başarısız oldu"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Money account bakiyeniz çok düşüktü. Üyeliği geri yüklemek için fon ekleyin."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Üyelik ödemesi gecikti"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Erişimi geri yüklemek için Money account hesabınıza fon aktarın."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Üyeliğiniz aktif değil"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Tekrar açmak için Money account hesabınıza fon ekleyin."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Üyeliğiniz $1 itibarıyla yenilenecek",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Otomatik olarak yenileyeceğiz."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Onaylandınız!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "MetaMask Card'ınızı ayarlayın ve kazanmaya başlayın."
+    "message": "MetaMask Card'ınızın kurulumunu yapıp harcamaya başlayın."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask Card güncellemesi"
+    "message": "Kart başvurusu güncellemesi"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Başvuru kararınızı görüntüleyin."
+    "message": "Kararınızı görmek için MetaMask'i açın."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Doğrulandınız ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Banka transferleri artık Money account hesabınızda kullanılabilir."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Doğrulama güncellemesi"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Sonucunuzu görmek için MetaMask'i açın."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Bilgilerinizi kontrol edin"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Gönderdiğiniz bir şeylerin düzeltilmesi gerekiyor. Doğrulama işlemini tamamlamak için güncelleyin."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "$1 kazandınız!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Sonuçlarınızı ve ödülünüzü nasıl alacağınızı görmek için açın."
+    "message": "Sonuçlarınıza bakın ve ödülünüzü alın."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 hedefinize ulaştı 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1 son $3 içinde $2 hareket etti",
+    "message": "$1, son $3 içinde $2 hareket etti",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -221,11 +265,51 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "$1 son $3 içinde $2 hareket etti",
+    "message": "$1, son $3 içinde $2 hareket etti",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Şu anki işlem fiyatı $1",
+    "message": "Şu anda $1 seviyesinden işlem görüyor. İzleme listenizde yer alıyor.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "En iyi perps yatırımcılarımız arasındasınız",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Gelecekteki adımlarımızı siz şekillendirin ve VIP programımıza katılın.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Daha fazla bilgi",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Emrin süresi doldu"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Yeni bir emir vermek için dokunun.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Emir iptal edildi"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Limit emirleri için akıllı hesap gerekir. Yükseltmek için yeni bir emir verin.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Emir iptal edildi"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Limit fiyatınıza ulaşıldı ancak kaynak token bakiyeniz yetersizdi.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Emir başarısız oldu"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Limit fiyatınıza ulaşıldı ancak işlem gerçekleştirilemedi.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

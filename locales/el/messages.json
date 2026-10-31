@@ -40,19 +40,19 @@
     "message": "Αίτημα αποδέσμευσης πονταρίσματος"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Λάβατε $1 $2"
+    "message": "Το ποσό των $1 $2 βρίσκεται τώρα στο πορτοφόλι σας."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Λάβατε κάποιο κεφάλαιο."
+    "message": "Ανοίξτε το MetaMask για να δείτε τις λεπτομέρειες."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Ελήφθησαν κάποια κεφάλαια"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Στείλατε $1 $2."
+    "message": "Το ποσό των $1 $2 αφαιρέθηκε από το πορτοφόλι σας."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Στείλατε κάποια κεφάλαια."
+    "message": "Ανοίξτε το MetaMask για να δείτε τις λεπτομέρειες."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Στάλθηκαν κεφάλαια"
@@ -106,7 +106,7 @@
     "message": "Ολοκλήρωση ακύρωσης πονταρίσματος"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Η ανταλλαγή σας στο MetaMask ήταν επιτυχής."
+    "message": "Τα tokens που ανταλλάξατε βρίσκονται στο πορτοφόλι σας."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Η ανταλλαγή ολοκληρώθηκε"
@@ -123,46 +123,46 @@
     "message": "Η εντολή ορίου εκτελέστηκε"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Η θέση αγοράς σας σε $1 έκλεισε.",
+    "message": "Η θέση αγοράς στο $1 έφτασε την τιμή ρευστοποίησης.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Η θέση πώλησής σας σε $1 έκλεισε.",
+    "message": "Η θέση πώλησης στο $1 έφτασε την τιμή ρευστοποίησης.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Η θέση έκλεισε"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Η θέση αγοράς σας σε $1 έκλεισε με περιορισμό ζημίας.",
+    "message": "Η θέση αγοράς στο $1 έκλεισε στην τιμή περιορισμού ζημιάς.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Η θέση πώλησής σας σε $1 έκλεισε με περιορισμό ζημίας.",
+    "message": "Η θέση πώλησης στο $1 έκλεισε στην τιμή περιορισμού ζημιάς.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Ενεργοποιήθηκε ο περιορισμός ζημιάς"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Η θέση αγοράς σας σε $1 έκλεισε με το σημείο κέρδους σας.",
+    "message": "Η θέση αγοράς στο $1 έκλεισε στην τιμή κατοχύρωσης κερδών.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Η θέση πώλησής σας σε $1 έκλεισε με το σημείο κέρδους σας.",
+    "message": "Η θέση πώλησης στο $1 έκλεισε στην τιμή κατοχύρωσης κερδών.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Ενεργοποιήθηκε το σημείο κέρδους"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Το αίτημά σας καταχωρίστηκε."
+    "message": "Θα σας ενημερώσουμε μόλις υπάρξει κάποια ενημέρωση."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Το αίτημα καταχωρίστηκε"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Υπάρχει ενημέρωση για το αίτημά σας."
+    "message": "Ανοίξτε το MetaMask για να δείτε την πιο πρόσφατη κατάσταση."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Το αίτημα ενημερώθηκε"
@@ -171,34 +171,78 @@
     "message": "Το πρόγραμμά σας είναι πλέον ενεργό."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Το πρόγραμμά σας έχει τεθεί σε παύση. Ενημερώστε τα στοιχεία πληρωμής σας για να συνεχίσετε."
+    "message": "Η συνδρομή σας έχει τεθεί σε παύση. Ενημερώστε τα στοιχεία πληρωμής σας για την επαναφορά του προγράμματος."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX είναι ΣΗΜΕΡΑ"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Προσθέστε χρήματα έως τις $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Ποιος κερδίζει τα πάντα; Επιλέξτε τον νικητή, λάβετε την πληρωμή σε USDC. Προβλέψτε τώρα."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Το υπόλοιπο του λογαριασμού σας στον Money account είναι χαμηλό, επομένως η συνδρομή σας ενδέχεται να λήξει."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Η ανανέωση της συνδρομής απέτυχε"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Το υπόλοιπο του λογαριασμού σας στον Money account ήταν πολύ χαμηλό. Προσθέστε χρήματα για να επαναφέρετε τη συνδρομή σας."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Η πληρωμή της συνδρομής σας είναι εκπρόθεσμη"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Μεταφέρετε χρήματα στον λογαριασμό σας στον Money account για να επαναφέρετε την πρόσβασή σας."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Η συνδρομή σας δεν είναι ενεργή"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Προσθέστε χρήματα στον λογαριασμό σας στον Money account για να την ενεργοποιήσετε ξανά."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Η συνδρομή σας ανανεώνεται στις $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Θα ανανεωθεί αυτόματα."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Η αίτησή σας εγκρίθηκε!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Ενεργοποιήστε σήμερα την MetaMask Card και ξεκινήστε να κερδίζετε."
+    "message": "Ρυθμίστε την MetaMask Card και ξεκινήστε τις αγορές."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Ενημέρωση για την MetaMask Card"
+    "message": "Ενημέρωση αίτησης κάρτας"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Δείτε την απόφαση της αίτησής σας."
+    "message": "Ανοίξτε το MetaMask για να δείτε την απόφαση."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Η διαδικασία επαλήθευσης ολοκληρώθηκε ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Οι τραπεζικές μεταφορές είναι πλέον διαθέσιμες για τον λογαριασμό σας στον Money account."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Ενημέρωση σχετικά με την διαδικασία επαλήθευσης"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Ανοίξτε το MetaMask για να δείτε το αποτέλεσμα."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Ελέγξτε τα στοιχεία σας"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Κάποιο από τα στοιχεία που υποβάλατε χρειάζεται διόρθωση. Ενημερώστε τα για να ολοκληρώσετε την διαδικασία επαλήθευσης."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "Κερδίσατε το $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Ανοίξτε για να δείτε τα αποτελέσματά σας και πώς να διεκδικήσετε την ανταμοιβή σας."
+    "message": "Δείτε τα αποτελέσματα και διεκδικήστε την ανταμοιβή σας."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "Το $1 έπιασε τον στόχο σας 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "Το $1 κινήθηκε κατά $2 το τελευταίο $3",
+    "message": "Το $1 μεταβλήθηκε κατά $2 την τελευταία $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -221,11 +265,51 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "Το $1 μετακινήθηκε κατά $2 τις τελευταίες $3",
+    "message": "Το $1 μεταβλήθηκε κατά $2 την τελευταία $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Τώρα βρίσκεται στα $1",
+    "message": "Η τρέχουσα τιμή είναι $1. Βρίσκεται στη λίστα παρακολούθησής σας.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "Είστε κορυφαίος trader στα Perps",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Διαμορφώστε το μέλλον της πλατφόρμας και γίνετε μέλος του προγράμματος VIP.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Μάθετε περισσότερα",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Η εντολή έληξε"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Πατήστε για να δημιουργήσετε μια νέα εντολή.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Η εντολή ακυρώθηκε"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Απαιτείται έξυπνος λογαριασμός για τις εντολές ορίου. Δημιουργήστε μια νέα εντολή και αναβαθμίστε τον λογαριασμό σας.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Η εντολή ακυρώθηκε"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Η τιμή ορίου επιτεύχθηκε, αλλά το υπόλοιπό σας σε tokens δεν ήταν αρκετό.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Η εντολή απέτυχε"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Η τιμή ορίου επιτεύχθηκε, αλλά η εκτέλεση της εντολής απέτυχε.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }
