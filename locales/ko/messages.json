@@ -40,19 +40,19 @@
     "message": "언스테이킹 요청됨"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "$1 $2을(를) 받았습니다."
+    "message": "$1 $2이(가) 지갑에 입금되었습니다."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "자금을 받았습니다."
+    "message": "세부 정보를 확인하려면 MetaMask를 여세요."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "자금 받음"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "$1 $2을(를) 보냈습니다."
+    "message": "지갑에서 $1 $2이(가) 출금되었습니다."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "자금을 보냈습니다."
+    "message": "세부 정보를 확인하려면 MetaMask를 여세요."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "자금 전송됨"
@@ -106,7 +106,7 @@
     "message": "언스테이킹 완료"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "스왑이 완료되었습니다."
+    "message": "스왑한 토큰이 지갑에 입금되었습니다."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "스왑 완료"
@@ -123,11 +123,11 @@
     "message": "지정가 주문 체결"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "$1 롱 포지션이 청산되었습니다.",
+    "message": "$1 롱 포지션이 청산 가격에 도달했습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "$1 숏 포지션이 청산되었습니다.",
+    "message": "$1 숏 포지션이 청산 가격에 도달했습니다.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
@@ -156,13 +156,13 @@
     "message": "익절 실행됨"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "클레임이 접수되었습니다."
+    "message": "새로운 소식이 있으면 알려드리겠습니다."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "클레임 접수됨"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "클레임이 업데이트되었습니다."
+    "message": "최신 상태를 확인하려면 MetaMask를 여세요."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "클레임 업데이트됨"
@@ -171,34 +171,78 @@
     "message": "플랜이 활성화되었습니다."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "플랜이 일시 중지되었습니다. 계속하려면 결제 수단을 업데이트하세요."
+    "message": "플랜이 일시 중지되었습니다. 다시 플랜을 이용하려면 결제 수단을 업데이트하세요."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask 트랜잭션 실드"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX 는 오늘입니다"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "$1까지 자금을 추가하세요",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. 누가 승리할까요? 승자를 선택하고 USDC로 지급받으세요. 지금 예측하세요."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Money account 잔액이 부족하여 멤버십이 만료될 수 있습니다."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "멤버십이 갱신되지 않았습니다"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Money account 잔액이 부족합니다. 자금을 추가하여 멤버십을 복구하세요."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "멤버십 결제 연체"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Money 계정으로 자금을 이체하면 다시 이용할 수 있습니다."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "멤버십이 비활성화 상태입니다"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "멤버십을 다시 이용하려면 Money account에 자금을 추가하세요."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "멤버십이 $1에 갱신됩니다",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "자동으로 갱신됩니다."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "승인되었습니다!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "오늘 MetaMask 카드를 설정하고 수익을 창출해 보세요."
+    "message": "MetaMask 카드를 설정하고 사용해 보세요."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask 카드 업데이트"
+    "message": "카드 신청 진행 상황 안내"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "신청 결과를 확인해 보세요."
+    "message": "MetaMask를 열어 심사 결과를 확인하세요."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "인증이 완료되었습니다 ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "이제 Money account에서 은행 이체를 이용할 수 있습니다."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "인증 관련 안내"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "MetaMask를 열어 결과를 확인하세요."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "세부 정보 확인"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "제출한 내용 중 수정할 부분이 있습니다. 수정 후 인증을 완료하세요."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "$1에 당첨되었습니다!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "결과와 보상 수령 방법을 확인하려면 열어 보세요."
+    "message": "결과를 확인하고 보상을 수령하세요."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 목표가 도달 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1이(가) 최근 $3 동안 $2 변동했습니다",
+    "message": "$1 가격이 $3 동안 $2 변동했습니다",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -221,11 +265,51 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "$1이(가) 최근 $3 동안 $2 변동했습니다",
+    "message": "$1 가격이 $3 동안 $2 변동했습니다",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "현재 $1에 거래 중",
+    "message": "현재 $1에 거래 중입니다. 관심 목록에 있는 자산입니다.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "무기한 선물 거래 상위 트레이더입니다",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "다음에 개발할 기능에 대한 의견을 내고 VIP 프로그램에 참여하세요.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "더 알아보기",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "주문 만료됨"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. 탭하여 새 주문을 생성하세요.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "주문 취소됨"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. 지정가 주문을 내려면 스마트 계정이 필요합니다. 업그레이드하려면 새 주문을 생성하세요.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "주문 취소됨"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. 지정가에 도달했지만 지불할 토큰의 잔액이 부족했습니다.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "주문 실패"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. 지정가에 도달했지만 주문이 체결되지 않았습니다.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

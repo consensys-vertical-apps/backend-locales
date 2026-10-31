@@ -40,19 +40,19 @@
     "message": "Запрошена отмена стейкинга"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Вы получили $1 $2."
+    "message": "$1 $2 теперь в вашем кошельке."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Вы получили средства."
+    "message": "Откройте MetaMask, чтобы посмотреть подробности."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Средства получены"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Вы отправили $1 $2."
+    "message": "Из вашего кошелька списано: $1 $2."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Вы успешно отправили токены"
+    "message": "Откройте MetaMask, чтобы посмотреть подробности."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Средства отправлены"
@@ -106,7 +106,7 @@
     "message": "Отмена стейкинга завершена"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Ваш своп выполнен."
+    "message": "Обмененные токены поступили в ваш кошелек."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Своп выполнен"
@@ -123,46 +123,46 @@
     "message": "Лимитный ордер выполнен"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 закрыта.",
+    "message": "Ваша длинная позиция по $1 достигла цены ликвидации.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 закрыта.",
+    "message": "Ваша короткая позиция по $1 достигла цены ликвидации.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Позиция закрыта"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 закрыта вашим стоп-лоссом.",
+    "message": "Ваша длинная позиция по $1 закрыта по стоп-лоссу.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 закрыта вашим стоп-лоссом.",
+    "message": "Ваша короткая позиция по $1 закрыта по стоп-лоссу.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Сработал стоп-лосс"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Ваша длинная позиция по $1 закрыта вашим тейк-профитом.",
+    "message": "Ваша длинная позиция по $1 закрыта по тейк-профиту.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Ваша короткая позиция по $1 закрыта вашим тейк-профитом.",
+    "message": "Ваша короткая позиция по $1 закрыта по тейк-профиту.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Сработал тейк-профит"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Ваша претензия создана."
+    "message": "Мы сообщим вам, когда появятся обновления."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Создана претензия"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Ваша претензия обновлена."
+    "message": "Откройте MetaMask, чтобы узнать текущий статус."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Претензия обновлена"
@@ -171,34 +171,78 @@
     "message": "Ваш план сейчас активен."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Ваш план приостановлен. Обновите платеж, чтобы продолжить."
+    "message": "Ваш план приостановлен. Обновите способ оплаты, чтобы возобновить его."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "Защита транзакций MetaMask"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX СЕГОДНЯ"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Пополните счет до $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Кто выиграет все? Выберите победителя, получите оплату в USDC. Предскажите сейчас."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Баланс вашего счета Money account низкий, и ваше членство может прекратиться."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Не удалось продлить членство"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Баланс вашего счета Money account был слишком низким. Пополните счет, чтобы восстановить членство."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Платеж за членство просрочен"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Переведите средства на счет Money account, чтобы восстановить доступ."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Ваше членство неактивно"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Пополните счет Money account, чтобы возобновить членство."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Ваше членство будет продлено $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Мы продлим его автоматически."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Вы получили одобрение!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Оформите свою карту MetaMask уже сегодня и начните зарабатывать."
+    "message": "Настройте MetaMask Card и начните совершать покупки."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Новости о карте MetaMask"
+    "message": "Статус заявки на карту"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Ознакомьтесь с решением по вашей заявке."
+    "message": "Откройте MetaMask, чтобы узнать решение."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Вы прошли верификацию ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Для вашего счета Money account теперь доступны банковские переводы."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Статус верификации"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Откройте MetaMask, чтобы узнать результат."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Проверьте свои данные"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Некоторые отправленные вами данные нужно исправить. Обновите их, чтобы завершить верификацию."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "Вы выиграли $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Откройте, чтобы посмотреть результаты и узнать, как получить награду."
+    "message": "Посмотрите результаты и получите награду."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 достиг вашей цели 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1 изменился на $2 за последний(-ие) $3",
+    "message": "$1: изменение на $2 за последние $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -221,11 +265,51 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "$1 изменился на $2 за последний(-ие) $3",
+    "message": "$1: изменение на $2 за последние $3",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Теперь торгуется на уровне $1",
+    "message": "Текущая цена: $1. Этот актив есть в вашем списке отслеживания.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "Вы в числе лучших трейдеров перпов",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Помогите нам определить, что создавать дальше, — вступайте в нашу VIP-программу.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Подробнее",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Срок действия ордера истек"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Нажмите, чтобы создать новый ордер.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Ордер отменен"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Для лимитных ордеров нужен смарт-счет. Создайте новый ордер, чтобы выполнить апгрейд.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Ордер отменен"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Предельная цена была достигнута, но на балансе было недостаточно исходного токена.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Ордер не выполнен"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Предельная цена была достигнута, но исполнить ордер не удалось.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }
