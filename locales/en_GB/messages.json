@@ -175,6 +175,24 @@
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "Your plan renews in one week. You're all set - no action needed."
   },
+  "pushNotificationMembershipTrialEndSoonTitle": {
+    "message": "Your free trial ends tomorrow",
+    "description": "Title for the MetaMask mobile membership trial end soon push notification"
+  },
+  "pushNotificationMembershipTrialEndSoonDescription": {
+    "message": "We'll charge $1 to your Money account. Cancel anytime.",
+    "description": "$1 is the price of the membership, varies on the plan"
+  },
+  "pushNotificationMembershipTrialEndFundLowTitle": {
+    "message": "Add funds by $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
+  },
+  "pushNotificationMembershipTrialEndFundLowDescription": {
+    "message": "Please add funds to your Money account to continue with Orange."
+  },
+  "pushNotificationMembershipAddFundsCta": {
+    "message": "Add funds"
+  },
 
   "pushNotificationPredictSuperBowlLXTitle": {
     "message": "🏈 Super Bowl LX is TODAY"
