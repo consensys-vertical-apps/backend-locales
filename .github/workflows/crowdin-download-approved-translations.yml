@@ -35,11 +35,14 @@ jobs:
           upload_translations: false
           download_translations: true
           export_only_approved: true
-          pull_request_title: 'chore: New Crowdin Translations by GitHub Action'
-          github_user_name: metamaskbot
-          github_user_email: metamaskbot@users.noreply.github.com
+          # The action's own git commit is unsigned. Publishing is done below
+          # so GitHub can sign the commit as the token-exchange app.
+          push_translations: false
         env:
-          GITHUB_TOKEN: ${{ steps.get-token.outputs.token }}
-          GITHUB_ACTOR: metamaskbot
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Publish signed commit and open pull request
+        env:
+          GH_TOKEN: ${{ steps.get-token.outputs.token }}
+        run: python3 .github/scripts/publish-signed-crowdin-commit.py
