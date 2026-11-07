@@ -40,19 +40,19 @@
     "message": "Đã yêu cầu hủy ký gửi"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Bạn đã nhận $1 $2."
+    "message": "$1 $2 hiện đã có trong ví của bạn."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Bạn đã nhận được tiền."
+    "message": "Mở MetaMask để xem chi tiết."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Đã nhận tiền"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Bạn đã gửi $1 $2."
+    "message": "$1 $2 đã được chuyển khỏi ví của bạn."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Bạn đã gửi tiền."
+    "message": "Mở MetaMask để xem chi tiết."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Đã gửi tiền"
@@ -106,7 +106,7 @@
     "message": "Đã hoàn tất hủy ký gửi"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Giao dịch hoán đổi của bạn đã hoàn tất."
+    "message": "Token được hoán đổi hiện đã có trong ví của bạn."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Đã hoàn tất hoán đổi"
@@ -123,46 +123,46 @@
     "message": "Lệnh giới hạn đã khớp"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Vị thế mua khống $1 của bạn đã bị thanh lý.",
+    "message": "Vị thế mua khống $1 của bạn đã chạm giá thanh lý.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Vị thế bán khống $1 của bạn đã bị thanh lý.",
+    "message": "Vị thế bán khống $1 của bạn đã chạm giá thanh lý.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Vị thế đã bị thanh lý"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Vị thế mua khống $1 của bạn đã được đóng ở mức cắt lỗ.",
+    "message": "Vị thế mua khống $1 của bạn đã đóng tại mức cắt lỗ.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Vị thế bán khống $1 của bạn đã được đóng ở mức cắt lỗ.",
+    "message": "Vị thế bán khống $1 của bạn đã đóng tại mức cắt lỗ.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Đã kích hoạt cắt lỗ"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Vị thế mua khống $1 của bạn đã được đóng ở mức chốt lời.",
+    "message": "Vị thế mua khống $1 của bạn đã đóng tại mức chốt lời.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Vị thế bán khống $1 của bạn đã được đóng ở mức chốt lời.",
+    "message": "Vị thế bán khống $1 của bạn đã đóng tại mức chốt lời.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Đã kích hoạt chốt lời"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Yêu cầu bồi thường của bạn đã được tạo."
+    "message": "Chúng tôi sẽ thông báo cho bạn khi có thông tin cập nhật."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Yêu cầu bồi thường đã được tạo"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Yêu cầu bồi thường của bạn có thông tin cập nhật."
+    "message": "Mở MetaMask để xem trạng thái mới nhất."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Yêu cầu bồi thường đã được cập nhật"
@@ -171,34 +171,78 @@
     "message": "Gói của bạn hiện đã được kích hoạt."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Gói của bạn đã bị tạm dừng. Cập nhật thông tin thanh toán để tiếp tục."
+    "message": "Gói của bạn đã tạm dừng. Cập nhật phương thức thanh toán để tiếp tục sử dụng gói."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Lá chắn Giao dịch"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX là HÔM NAY"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Nạp tiền trước $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Ai sẽ thắng? Chọn người chiến thắng, nhận thanh toán bằng USDC. Dự đoán ngay."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Số dư Money Account của bạn đang thấp nên tư cách thành viên của bạn có thể hết hiệu lực."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Gia hạn tư cách thành viên thất bại"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Số dư Money Account của bạn quá thấp. Nạp tiền để khôi phục tư cách thành viên."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Quá hạn thanh toán phí thành viên"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Chuyển tiền vào Money Account của bạn để khôi phục quyền truy cập."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Tư cách thành viên của bạn không còn hiệu lực"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Nạp tiền vào Money Account để kích hoạt lại tư cách thành viên."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Tư cách thành viên của bạn sẽ được gia hạn vào $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Chúng tôi sẽ tự động gia hạn tư cách thành viên."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Bạn đã được phê duyệt!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Thiết lập MetaMask Card và bắt đầu sinh lời."
+    "message": "Thiết lập MetaMask Card và bắt đầu chi tiêu."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Cập nhật MetaMask Card"
+    "message": "Cập nhật về đơn đăng ký thẻ"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Xem kết quả đơn đăng ký của bạn."
+    "message": "Mở MetaMask để xem kết quả xét duyệt."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Bạn đã được xác minh ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Money Account của bạn hiện đã có thể sử dụng tính năng chuyển khoản ngân hàng."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Cập nhật về việc xác minh"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Mở MetaMask để xem kết quả của bạn."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Kiểm tra thông tin của bạn"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Một số thông tin bạn đã gửi cần được chỉnh sửa. Cập nhật để hoàn tất xác minh."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "Bạn đã thắng $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Mở để xem kết quả và cách nhận phần thưởng."
+    "message": "Xem kết quả của bạn và nhận phần thưởng."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 đã đạt mục tiêu của bạn 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1 đã biến động $2 trong $3 vừa qua",
+    "message": "$1 đã biến động $2 trong $3 qua",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -225,7 +269,47 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Hiện đang giao dịch tại mức giá $1",
+    "message": "Hiện đang giao dịch ở mức $1. Tài sản này nằm trong danh sách theo dõi của bạn.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "Bạn là nhà giao dịch hợp đồng vĩnh cửu hàng đầu",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Góp phần định hướng những gì chúng tôi sẽ xây dựng tiếp theo và tham gia chương trình VIP.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Tìm hiểu thêm",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Lệnh đã hết hạn"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Nhấn để tạo lệnh mới.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Lệnh đã bị hủy"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Bạn cần có tài khoản thông minh để đặt lệnh giới hạn. Tạo lệnh mới để nâng cấp.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Lệnh đã bị hủy"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Đã đạt đến mức giá giới hạn nhưng số dư token nguồn của bạn không đủ.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Lệnh thất bại"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Đã đạt đến mức giá giới hạn nhưng không thể thực hiện lệnh.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

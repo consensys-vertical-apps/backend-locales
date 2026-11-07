@@ -40,19 +40,19 @@
     "message": "Unstaking angefordert"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Sie haben $1 $2 erhalten"
+    "message": "$1 $2 befindet sich nun in Ihrer Wallet."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Sie haben Gelder empfangen."
+    "message": "Öffnen Sie MetaMask, um sich die Details anzeigen zu lassen."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Gelder empfangen"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Sie haben $1 $2 gesendet."
+    "message": "$1 $2 wurde von Ihrer Wallet abgebucht."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Sie haben Gelder gesendet."
+    "message": "Öffnen Sie MetaMask, um sich die Details anzeigen zu lassen."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Gelder gesendet"
@@ -106,7 +106,7 @@
     "message": "Unstaken abschließen"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Ihr Swap ist abgeschlossen."
+    "message": "Ihre getauschten Tokens befinden sich in Ihrer Wallet."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Swap abgeschlossen"
@@ -123,46 +123,46 @@
     "message": "Limit-Order ausgeführt"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Ihre $1-Long-Position wurde liquidiert.",
+    "message": "Ihr Long-Position über $1 hat ihren Liquidationspreis erreicht.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Ihre $1-Short-Position wurde liquidiert.",
+    "message": "Ihre Short-Position über $1 hat ihren Liquidationspreis erreicht.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "Position liquidiert"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "Ihre $1-Long-Position wurde zu Ihrem Stop-Loss geschlossen.",
+    "message": "Ihre Long-Position über $1 wurde bei Ihrem Stop-Loss geschlossen.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "Ihre $1-Short-Position wurde zu Ihrem Stop-Loss geschlossen.",
+    "message": "Ihre Short-Position über $1 wurde bei Ihrem Stop-Loss geschlossen.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "Stop-Loss ausgelöst"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "Ihre $1-Long-Position wurde zu Ihrem Take-Profit geschlossen.",
+    "message": "Ihre Long-Position über $1 wurde bei Ihrem Take-Profit geschlossen.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "Ihre $1-Short-Position wurde zu Ihrem Take-Profit geschlossen.",
+    "message": "Ihre Short-Position über $1 wurde bei Ihrem Take-Profit geschlossen.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "Take-Profit ausgelöst"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Ihr Antrag wurde erstellt."
+    "message": "Wir geben Ihnen Bescheid, sobald es Neuigkeiten gibt."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Antrag erstellt"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Ihr Antrag wurde aktualisiert."
+    "message": "Öffnen Sie MetaMask, um sich den aktuellen Status anzusehen."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Antrag aktualisiert"
@@ -171,34 +171,78 @@
     "message": "Ihr Plan ist nun aktiv."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Ihr Plan wurde pausiert. Bitte aktualisieren Sie Ihre Zahlung, um fortzufahren."
+    "message": "Ihr Plan ist derzeit pausiert. Aktualisieren Sie Ihre Zahlungsmethode, um Ihren Plan fortzusetzen."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX ist HEUTE"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Guthaben bis $1 hinzufügen",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. Wer gewinnt alles? Wählen Sie den Gewinner, erhalten Sie die Zahlung in USDC. Jetzt vorhersagen."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "Der Kontostand Ihres Money accounts ist niedrig, daher könnte Ihre Mitgliedschaft erlöschen."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Die Verlängerung der Mitgliedschaft ist fehlgeschlagen"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "Das Guthaben auf Ihrem Money account war zu gering. Bitte laden Sie Guthaben auf, um Ihre Mitgliedschaft wiederherzustellen."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Der Mitgliedsbeitrag ist überfällig"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Überweisen Sie Geld auf Ihr Money account, um den Zugriff wiederherzustellen."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Ihre Mitgliedschaft ist inaktiv"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Laden Sie Guthaben auf Ihr Money account, um es wieder zu aktivieren."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Ihre Mitgliedschaft verlängert sich am $1.",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "Wir verlängern sie automatisch."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "Sie wurden zugelassen!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Richten Sie noch heute Ihre MetaMask-Karte ein und verdienen Sie Geld."
+    "message": "Richten Sie noch heute Ihre MetaMask-Karte ein und beginnen Sie mit dem Ausgeben."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask-Karte-Update"
+    "message": "Aktualisierung des Kartenantrags"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Sehen Sie sich die Entscheidung über Ihren Antrag an."
+    "message": "Öffnen Sie MetaMask, um Ihre Entscheidung einzusehen."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Sie sind verifiziert ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Für Ihr Money account stehen nun Banküberweisungen zur Verfügung."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Aktualisierung der Verifizierung"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Öffnen Sie MetaMask, um Ihr Ergebnis einzusehen."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Überprüfen Sie Ihre Angaben"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Eine von Ihnen eingereichte Angabe muss korrigiert werden. Bitte aktualisieren Sie die Angaben, um die Überprüfung abzuschließen."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "Sie haben $1 gewonnen!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Öffnen Sie die App, um Ihre Ergebnisse zu sehen und zu erfahren, wie Sie Ihre Belohnung einfordern können."
+    "message": "Sehen Sie sich Ihre Ergebnisse an und holen Sie sich Ihre Belohnung."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 hat Ihr Ziel erreicht 🎯",
@@ -213,7 +257,7 @@
     "description": "$1 is the threshold set"
   },
   "pushNotificationPctAlertTitle": {
-    "message": "$1 bewegte sich $2 für $3",
+    "message": "$1 hat in den letzten $3 $2 bewegt",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationPctAlertDescription": {
@@ -221,11 +265,51 @@
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
   },
   "pushNotificationWatchlistPriceAlertTitle": {
-    "message": "$1 bewegte sich $2 für $3",
+    "message": "$1 hat in den letzten $3 $2 bewegt",
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Derzeit wird zu $1 gehandelt",
+    "message": "Der Kurs liegt derzeit bei $1. Die Aktie steht auf Ihrer Beobachtungsliste.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "Sie sind ein erstklassiger Perps-Trader",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Gestalten Sie mit, was wir als Nächstes entwickeln, und nehmen Sie an unserem VIP-Programm teil.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Mehr erfahren",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Order abgelaufen"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Tippen Sie hier, um eine neue Order zu erstellen.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Order storniert"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Für Limit-Orders ist ein Smart-Konto erforderlich. Erstellen Sie eine neue Order, um ein Upgrade durchzuführen.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Order storniert"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Ihr Limit-Preis wurde erreicht, aber Ihr Guthaben an Quell-Tokens reichte nicht aus.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Order fehlgeschlagen"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Ihr Limit-Preis wurde erreicht, die Ausführung ist jedoch fehlgeschlagen.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

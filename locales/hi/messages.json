@@ -40,19 +40,19 @@
     "message": "अनस्टेकिंग का अनुरोध किया गया"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "आपको $1 $2 प्राप्त हुए।"
+    "message": "अब आपके वॉलेट में $1 $2 है।"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "आपको फंड प्राप्त हुए।"
+    "message": "विवरण देखने के लिए MetaMask खोलें।"
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "फंड प्राप्त हुए"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "आपने $1 $2 भेजा।"
+    "message": "$1 $2 आपके वॉलेट से चले गए।"
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "आपने फंड भेजे।"
+    "message": "विवरण देखने के लिए MetaMask खोलें।"
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "फंड भेजे"
@@ -106,7 +106,7 @@
     "message": "अनस्टेक पूरा हुआ"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "आपका स्वैप पूरा हुआ।"
+    "message": "आपके स्वैप किए गए टोकन आपके वॉलेट में हैं।"
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "स्वैप पूरा हुआ"
@@ -123,11 +123,11 @@
     "message": "लिमिट ऑर्डर फिल हो गया"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "आपकी $1 लॉन्ग पोज़िशन लिक्विडेट कर दी गई।",
+    "message": "आपका $1 लॉन्ग अपने लिक्विडेशन प्राइस पर पहुंच गया।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "आपकी $1 शॉर्ट पोज़िशन लिक्विडेट कर दी गई।",
+    "message": "आपका $1 शॉर्ट अपने लिक्विडेशन प्राइस पर पहुंच गया।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
@@ -138,31 +138,31 @@
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "आपकी $1 शॉर्ट पोज़िशन स्टॉप लॉस पर बंद कर दी गई।",
+    "message": "आपकी $1 शॉर्ट पोज़िशन आपके स्टॉप लॉस पर बंद कर दी गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "स्टॉप लॉस ट्रिगर हो गया"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "आपकी $1 लॉन्ग पोज़िशन टेक प्रॉफिट पर बंद हो गई।",
+    "message": "आपकी $1 लॉन्ग पोज़िशन आपके टेक प्रॉफिट पर बंद हो गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "आपकी $1 शॉर्ट पोज़िशन टेक प्रॉफिट पर बंद हो गई।",
+    "message": "आपकी $1 शॉर्ट पोज़िशन आपके टेक प्रॉफिट पर बंद हो गई।",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "टेक प्रॉफ़िट ट्रिगर हो गया"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "आपका क्लेम बना दिया गया है।"
+    "message": "जब कोई अपडेट आएगा तो हम आपको सूचित कर देंगे।"
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "क्लेम बनाया गया"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "आपके क्लेम में अपडेट हुआ है।"
+    "message": "ताज़ा स्टेटस देखने के लिए MetaMask खोलें।"
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "क्लेम अपडेट किया गया"
@@ -171,34 +171,78 @@
     "message": "आपका प्लान अब सक्रिय है।"
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "आपका प्लान रोक दिया गया है। जारी रखने के लिए अपना भुगतान अपडेट करें।"
+    "message": "आपका प्लान रोक दिया गया है। अपना प्लान जारी रखने के लिए अपना भुगतान का तरीका अपडेट करें।"
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask ट्रांसेक्शन शील्ड"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX आज है"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "$1 तक फंड जोड़ें",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. कौन जीतता है? विजेता चुनें, USDC में भुगतान प्राप्त करें। अभी भविष्यवाणी करें।"
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "आपके Money अकाउंट में बैलेंस कम है, इसलिए आपकी सदस्यता समाप्त हो सकती है।"
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "सदस्यता नवीनीकरण नहीं हो पाया"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "आपके Money अकाउंट में बैलेंस बहुत कम था। सदस्यता रिस्टोर करने के लिए फंड जोड़ें।"
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "सदस्यता शुल्क का भुगतान बकाया है"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "अपने Money अकाउंट में फंड ट्रांसफर करें ताकि आपको दोबारा एक्सेस मिल सके।"
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "आपकी सदस्यता निष्क्रिय है"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "इसे दोबारा चालू करने के लिए अपने Money अकाउंट में फंड जोड़ें।"
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "आपकी सदस्यता का नवीनीकरण $1 को होता है",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "हम इसे स्वचालित रूप से नवीनीकृत कर देंगे।"
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "आपको मंज़ूरी मिल गई है!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "अपना MetaMask कार्ड सेट अप करें और कमाना शुरू करें।"
+    "message": "अपना MetaMask कार्ड सेट अप करें और खर्च करना शुरू करें।"
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask कार्ड अपडेट"
+    "message": "कार्ड आवेदन अपडेट"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "अपने आवेदन का निर्णय देखें।"
+    "message": "अपना निर्णय देखने के लिए MetaMask खोलें।"
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "आप वेरिफाइड ✅ हैँ"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "अब आपके Money अकाउंट के लिए बैंक ट्रांसफर की सुविधा उपलब्ध है।"
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "वेरिफिकेशन अपडेट"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "अपना नतीजा देखने के लिए MetaMask खोलें।"
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "अपने डिटेल्स देखें"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "आपने जो जानकारी सबमिट की है, उसमें कुछ सुधार की आवश्यकता है। वेरीफिकेशन पूरा करने के लिए कृपया अपडेट करें।"
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "आपने $1 जीत लिया!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "अपने परिणाम देखने और अपना रिवॉर्ड क्लेम करने का तरीका जानने के लिए खोलें।"
+    "message": "अपने परिणाम देखें और अपना रिवॉर्ड क्लेम करें।"
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 आपके लक्ष्य तक पहुँच गया 🎯",
@@ -225,7 +269,47 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "अभी $1 पर ट्रेड कर रहा है",
+    "message": "अभी $1 पर ट्रेड हो रहा है। यह आपकी वॉचलिस्ट में है।",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "आप एक टॉप पर्प्स ट्रेडर हैं",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "हम आगे क्या बनाएंगे, इसे आकार दें और हमारे वीआईपी कार्यक्रम में शामिल हों।",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "ज़्यादा जानें",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "ऑर्डर एक्सपायर हो गया"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. नया ऑर्डर बनाने के लिए टैप करें।",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "ऑर्डर कैंसिल कर दिया गया"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. लिमिट ऑर्डर के लिए स्मार्ट अकाउंट आवश्यक है। अपग्रेड करने के लिए नया ऑर्डर बनाएं।",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "ऑर्डर कैंसिल कर दिया गया"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. आपकी लिमिट प्राइस तक पहुँच गया, लेकिन आपके पास सोर्स टोकन बैलेंस अपर्याप्त था।",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "ऑर्डर नहीं हो पाया"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. आपकी निर्धारित लिमिट प्राइस तक पहुँच गया, लेकिन निष्पादन नहीं हो पाया।",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }
