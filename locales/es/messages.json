@@ -40,19 +40,19 @@
     "message": "Cancelación del staking solicitada"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "Recibiste $1 $2."
+    "message": "Ahora tienes $1 $2 en tu billetera."
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "Recibiste fondos."
+    "message": "Abre MetaMask para ver los detalles."
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "Fondos recibidos"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "Enviaste $1 $2."
+    "message": "$1 $2 salieron de tu billetera."
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "Enviaste fondos."
+    "message": "Abre MetaMask para ver los detalles."
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "Fondos enviados"
@@ -106,7 +106,7 @@
     "message": "Cancelación de staking finalizada"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "Tu canje ha finalizado."
+    "message": "Los tokens que canjeaste están en tu billetera."
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "Canje finalizado"
@@ -123,11 +123,11 @@
     "message": "Orden límite ejecutada"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "Tu posición larga de $1 se liquidó.",
+    "message": "Tu posición larga de $1 alcanzó su precio de liquidación.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "Tu posición corta de $1 se cerró.",
+    "message": "Tu posición corta de $1 alcanzó su precio de liquidación.",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
@@ -156,13 +156,13 @@
     "message": "Toma de ganancias activada"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "Se creó tu reclamación."
+    "message": "Te avisaremos cuando haya novedades."
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "Reclamación creada"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "Tu reclamación tiene una actualización."
+    "message": "Abre MetaMask para ver el estado más reciente."
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "Reclamación actualizada"
@@ -171,34 +171,78 @@
     "message": "Tu plan ya está activo."
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "Tu plan está en pausa. Actualiza tu método de pago para continuar."
+    "message": "Tu plan está en pausa. Actualiza tu método de pago para reanudarlo."
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "Escudo de transacciones de MetaMask"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX es HOY"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "Agregar fondos a más tardar el $1",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. ¿Quién gana todo? Elige al ganador, recibe el pago en USDC. Predice ahora."
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "El saldo de tu Money Account es bajo, por lo que tu membresía podría vencer."
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "Error al renovar la membresía"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "El saldo de tu Money Account era demasiado bajo. Agrega fondos para restaurar tu membresía."
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "Pago de la membresía vencido"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "Transfiere fondos a tu Money Account para restaurar el acceso."
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "Tu membresía está inactiva"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "Agrega fondos a tu Money Account para reactivarla."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "Tu membresía se renueva el $1",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "La renovaremos automáticamente."
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "¡Fuiste aprobado!"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "Configura hoy mismo tu tarjeta MetaMask y comienza a ganar."
+    "message": "Configura tu tarjeta MetaMask y comienza a gastar."
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "Actualización sobre la tarjeta MetaMask"
+    "message": "Actualización sobre tu solicitud de tarjeta"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "Consulta la decisión sobre tu solicitud."
+    "message": "Abre MetaMask para ver la decisión."
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "Verificación completada ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "Ya puedes realizar transferencias bancarias desde tu Money Account."
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "Actualización sobre la verificación"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "Abre MetaMask para ver tu resultado."
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "Revisa tus datos"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "Debes corregir algo que enviaste. Actualiza para finalizar la verificación."
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "¡Ganaste el $1!"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "Abre para ver tus resultados y cómo reclamar tu recompensa."
+    "message": "Ve tus resultados y reclama tu recompensa."
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 alcanzó tu objetivo 🎯",
@@ -225,7 +269,47 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "Ahora cotiza en $1",
+    "message": "Ahora se cotiza a $1. Está en tu lista de seguimiento.",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "Eres uno de los mejores traders de Perps",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "Ayúdanos a definir lo que desarrollaremos y únete a nuestro programa VIP.",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "Más información",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "Orden expirada"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3. Toca para crear una nueva orden.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "Orden cancelada"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Se requiere una cuenta inteligente para las órdenes límite. Crea una nueva orden para actualizar tu cuenta.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "Orden cancelada"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Se alcanzó tu precio límite, pero no tenías saldo suficiente del token de origen.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "Orden fallida"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3. Se alcanzó tu precio límite, pero hubo un error en la ejecución.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }

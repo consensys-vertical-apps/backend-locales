@@ -40,19 +40,19 @@
     "message": "已请求解除质押"
   },
   "pushPlatformNotificationsFundsReceivedDescription": {
-    "message": "您收到了 $1 $2。"
+    "message": "$1 $2 现已在您的钱包中。"
   },
   "pushPlatformNotificationsFundsReceivedDescriptionDefault": {
-    "message": "您已收到资金。"
+    "message": "打开 MetaMask 查看详情。"
   },
   "pushPlatformNotificationsFundsReceivedTitle": {
     "message": "已收到资金"
   },
   "pushPlatformNotificationsFundsSentDescription": {
-    "message": "您已发送 $1 $2。"
+    "message": "$1 $2 已从您的钱包转出。"
   },
   "pushPlatformNotificationsFundsSentDescriptionDefault": {
-    "message": "您已发送资金。"
+    "message": "打开 MetaMask 查看详情。"
   },
   "pushPlatformNotificationsFundsSentTitle": {
     "message": "已发送资金"
@@ -106,7 +106,7 @@
     "message": "解除质押完成"
   },
   "pushPlatformNotificationsSwapCompletedDescription": {
-    "message": "您的兑换已完成。"
+    "message": "您兑换的代币已在您的钱包中。"
   },
   "pushPlatformNotificationsSwapCompletedTitle": {
     "message": "兑换已完成"
@@ -123,46 +123,46 @@
     "message": "限价订单已成交"
   },
   "pushNotificationPositionLiquidatedDescriptionLong": {
-    "message": "您的 $1 多头仓位已平仓。",
+    "message": "您的 $1 多头仓位触及清算价格。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedDescriptionShort": {
-    "message": "您的 $1 空头仓位已平仓。",
+    "message": "您的 $1 空头仓位触及清算价格。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationPositionLiquidatedTitle": {
     "message": "仓位已平仓"
   },
   "pushNotificationStopLossTriggeredDescriptionLong": {
-    "message": "您的 $1 多头仓位已触发止损平仓。",
+    "message": "您的 $1 多头仓位已按止损平仓。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredDescriptionShort": {
-    "message": "您的 $1 空头仓位已触发止损平仓。",
+    "message": "您的 $1 空头仓位已按止损平仓。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationStopLossTriggeredTitle": {
     "message": "止损已触发"
   },
   "pushNotificationTakeProfitTriggeredDescriptionLong": {
-    "message": "您的 $1 多头仓位已达成止盈平仓。",
+    "message": "您的 $1 多头仓位已按止盈平仓。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredDescriptionShort": {
-    "message": "您的 $1 空头仓位已达成止盈平仓。",
+    "message": "您的 $1 空头仓位已按止盈平仓。",
     "description": "$1 is the asset symbol"
   },
   "pushNotificationTakeProfitTriggeredTitle": {
     "message": "止盈已触发"
   },
   "pushNotificationShieldClaimCreatedDescriptionShort": {
-    "message": "您的索赔已创建。"
+    "message": "有更新时我们会通知您。"
   },
   "pushNotificationShieldClaimCreatedTitle": {
     "message": "索赔已创建"
   },
   "pushNotificationShieldClaimStatusUpdatedDescriptionShort": {
-    "message": "您的索赔有更新。"
+    "message": "打开 MetaMask 查看最新状态。"
   },
   "pushNotificationShieldClaimStatusUpdatedTitle": {
     "message": "索赔已更新"
@@ -171,34 +171,78 @@
     "message": "您的计划现已生效。"
   },
   "pushNotificationShieldSubscriptionPaymentFailedDescriptionShort": {
-    "message": "您的计划已暂停。请更新您的付款以继续。"
+    "message": "您的计划已暂停。请更新付款方式以恢复计划。"
   },
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask 交易防护"
   },
-  "pushNotificationPredictSuperBowlLXTitle": {
-    "message": "🏈 Super Bowl LX 就在今天"
+  "pushNotificationMembershipFundLowTitle": {
+    "message": "在 $1 前添加资金",
+    "description": "$1 is the latest date by which the account needs to be funded."
   },
-  "pushNotificationPredictSuperBowlLXDescriptionShort": {
-    "message": "Seahawks vs Patriots. 谁会赢得一切？选择获胜者，以 USDC 获得报酬。立即预测。"
+  "pushNotificationMembershipFundLowDescription": {
+    "message": "您的 Money Account 余额较低，因此您的会员资格可能会失效。"
+  },
+  "pushNotificationMembershipRenewalFailedTitle": {
+    "message": "会员续订失败"
+  },
+  "pushNotificationMembershipRenewalFailedDescription": {
+    "message": "您的 Money Account 余额过低。请添加资金以恢复会员资格。"
+  },
+  "pushNotificationMembershipPaymentFailedTitle": {
+    "message": "会员付款已逾期"
+  },
+  "pushNotificationMembershipPaymentFailedDescription": {
+    "message": "请将资金转入您的 Money Account 以恢复访问权限。"
+  },
+  "pushNotificationMembershipInactiveTitle": {
+    "message": "您的会员资格未激活"
+  },
+  "pushNotificationMembershipInactiveDescription": {
+    "message": "请向您的 Money Account 添加资金以重新开启。"
+  },
+  "pushNotificationMembershipAnnualRenewNoticeTitle": {
+    "message": "您的会员资格将于 $1 续订",
+    "description": "$1 is the annual renewal date."
+  },
+  "pushNotificationMembershipAnnualRenewNoticeDescription": {
+    "message": "我们会自动续订。"
   },
   "pushNotificationCardKycCompletedTitle": {
     "message": "您已获得批准！"
   },
   "pushNotificationCardKycCompletedDescription": {
-    "message": "设置您的 MetaMask 卡，开始赚取奖励。"
+    "message": "设置您的 MetaMask 卡，开始消费。"
   },
   "pushNotificationCardKycFailedTitle": {
-    "message": "MetaMask 卡更新"
+    "message": "卡申请更新"
   },
   "pushNotificationCardKycFailedDescription": {
-    "message": "查看您的申请结果。"
+    "message": "打开 MetaMask 查看您的决定。"
+  },
+  "pushNotificationKycVerifiedTitle": {
+    "message": "您已验证 ✅"
+  },
+  "pushNotificationKycVerifiedDescription": {
+    "message": "您的 Money Account 现在可以使用银行转账。"
+  },
+  "pushNotificationKycVerificationUpdateTitle": {
+    "message": "验证更新"
+  },
+  "pushNotificationKycVerificationUpdateDescription": {
+    "message": "打开 MetaMask 查看您的结果。"
+  },
+  "pushNotificationKycDetailsUpdateRequiredTitle": {
+    "message": "检查您的详情"
+  },
+  "pushNotificationKycDetailsUpdateRequiredDescription": {
+    "message": "您提交的某些信息需要修正。请更新以完成验证。"
   },
   "pushNotificationRewardsCampaignWinnerTitle": {
     "message": "您赢得了 $1！"
   },
   "pushNotificationRewardsCampaignWinnerDescription": {
-    "message": "打开以查看您的结果以及如何领取奖励。"
+    "message": "查看您的结果并领取奖励。"
   },
   "pushNotificationPriceAlertTitle": {
     "message": "$1 已达到您的目标 🎯",
@@ -225,7 +269,47 @@
     "description": "$1 is the asset symbol, $2 is the signed percentage (e.g. +5% or -5%), $3 is the period (e.g. 1h)"
   },
   "pushNotificationWatchlistPriceAlertDescription": {
-    "message": "当前交易价格 $1",
+    "message": "当前交易价格为 $1。它在您的关注列表中。",
     "description": "$1 is the current price formatted as USD (e.g. $2,100.00)"
+  },
+  "outreachMobilePerpsBannerTitle": {
+    "message": "您是顶尖永续合约交易者",
+    "description": "Title for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerBody": {
+    "message": "共同塑造我们的未来构建，加入我们的 VIP 计划。",
+    "description": "Body copy for the MetaMask mobile perps outreach banner shown to allowlisted users"
+  },
+  "outreachMobilePerpsBannerCta": {
+    "message": "了解详情",
+    "description": "CTA button label for the MetaMask mobile perps outreach banner"
+  },
+  "pushNotificationLimitOrderExpiredTitle": {
+    "message": "订单已过期"
+  },
+  "pushNotificationLimitOrderExpiredBody": {
+    "message": "$1 $2 -> $3。点击以创建新订单。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredTitle": {
+    "message": "订单已取消"
+  },
+  "pushNotificationLimitOrderCanceledSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3。限价订单需要智能账户。请创建新订单以升级。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceTitle": {
+    "message": "订单已取消"
+  },
+  "pushNotificationLimitOrderCanceledInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3。您已达到限价，但您的源代币余额不足。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationLimitOrderFailedTitle": {
+    "message": "订单失败"
+  },
+  "pushNotificationLimitOrderFailedBody": {
+    "message": "$1 $2 -> $3。您已达到限价，但执行失败。",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }
