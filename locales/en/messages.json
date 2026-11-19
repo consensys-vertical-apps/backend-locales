@@ -240,6 +240,12 @@
   "pushNotificationCardKycFailedDescription": {
     "message": "Open MetaMask to see your decision."
   },
+  "pushNotificationCardCreatedTitle": {
+    "message": "Your MetaMask Card is ready"
+  },
+  "pushNotificationCardCreatedDescription": {
+    "message": "Start spending with your new card."
+  },
   "pushNotificationKycVerifiedTitle": {
     "message": "You’re verified ✅"
   },
