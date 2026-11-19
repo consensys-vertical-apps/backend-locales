@@ -144,8 +144,8 @@
   },
 
   "pushNotificationMembershipFundLowTitle": {
-    "message": "Add funds by $1",
-    "description": "$1 is the latest date by which the account needs to be funded."
+    "message": "Your plan renews in $1 days",
+    "description": "$1 is the number of days until renewal."
   },
   "pushNotificationMembershipFundLowDescription": {
     "message": "Your money account is low. Add funds to keep your membership"
@@ -169,11 +169,11 @@
     "message": "Add funds to your Money account to regain access to your benefits."
   },
   "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "Your plan renews on $1",
-    "description": "$1 is the annual renewal date."
+    "message": "Your plan renews in $1 days",
+    "description": "$1 is the number of days until the annual renewal."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
-    "message": "Your plan renews in one week. You're all set - no action needed."
+    "message": "You're all set - no action needed."
   },
   "pushNotificationMembershipTrialEndSoonTitle": {
     "message": "Your free trial ends tomorrow",

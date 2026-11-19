@@ -178,8 +178,8 @@
   },
 
   "pushNotificationMembershipFundLowTitle": {
-    "message": "Add funds by $1",
-    "description": "$1 is the latest date by which the account needs to be funded."
+    "message": "Your membership renews in $1 days",
+    "description": "$1 is the number of days until renewal."
   },
   "pushNotificationMembershipFundLowDescription": {
     "message": "Your Money account balance is low, so your membership may lapse."
@@ -203,8 +203,8 @@
     "message": "Add funds to your Money account to turn it back on."
   },
   "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "Your membership renews on $1",
-    "description": "$1 is the annual renewal date."
+    "message": "Your membership renews in $1 days",
+    "description": "$1 is the number of days until the annual renewal."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "We'll renew it automatically."
