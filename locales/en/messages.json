@@ -343,5 +343,40 @@
   "pushNotificationLimitOrderFailedBody": {
     "message": "$1 $2 -> $3. Your limit price was reached, but execution failed.",
     "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationRecurringSwapOrderSkippedInsufficientBalanceTitle": {
+    "message": "Order skipped"
+  },
+  "pushNotificationRecurringSwapOrderSkippedInsufficientBalanceBody": {
+    "message": "$1 $2 -> $3. Insufficient $2 balance.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationRecurringSwapOrderSkippedPriceOutOfRangeTitle": {
+    "message": "Order skipped"
+  },
+  "pushNotificationRecurringSwapOrderSkippedPriceOutOfRangeBody": {
+    "message": "$1 $2 -> $3. Price moved outside your range.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationRecurringSwapOrderSkippedSmartAccountRequiredTitle": {
+    "message": "Order skipped"
+  },
+  "pushNotificationRecurringSwapOrderSkippedSmartAccountRequiredBody": {
+    "message": "$1 $2 -> $3. Upgrade to a smart account to complete this order.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationRecurringSwapOrderSkippedNoQuotesTitle": {
+    "message": "Order skipped"
+  },
+  "pushNotificationRecurringSwapOrderSkippedNoQuotesBody": {
+    "message": "$1 $2 -> $3. No quotes available at this time.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
+  },
+  "pushNotificationRecurringSwapOrderFailedTitle": {
+    "message": "Order failed"
+  },
+  "pushNotificationRecurringSwapOrderFailedBody": {
+    "message": "$1 $2 -> $3. Tap to try again.",
+    "description": "$1 is the source amount, $2 is the source ticker, $3 is the destination ticker"
   }
 }
