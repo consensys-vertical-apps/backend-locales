@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMaskトランザクションシールド"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "$1までに入金してください",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "Money Accountの残高が少なくなっているため、メンバーシップが失効する可能性があります。"
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "有効にするには、Money Accountに入金してください。"
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "メンバーシップが$1に更新されます",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "更新は自動で行われます。"

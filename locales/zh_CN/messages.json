@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask 交易防护"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "在 $1 前添加资金",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "您的 Money Account 余额较低，因此您的会员资格可能会失效。"
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "请向您的 Money Account 添加资金以重新开启。"
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "您的会员资格将于 $1 续订",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "我们会自动续订。"

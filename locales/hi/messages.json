@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask ट्रांसेक्शन शील्ड"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "$1 तक फंड जोड़ें",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "आपके Money अकाउंट में बैलेंस कम है, इसलिए आपकी सदस्यता समाप्त हो सकती है।"
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "इसे दोबारा चालू करने के लिए अपने Money अकाउंट में फंड जोड़ें।"
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "आपकी सदस्यता का नवीनीकरण $1 को होता है",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "हम इसे स्वचालित रूप से नवीनीकृत कर देंगे।"
