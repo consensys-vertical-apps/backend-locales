@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask 트랜잭션 실드"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "$1까지 자금을 추가하세요",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "Money account 잔액이 부족하여 멤버십이 만료될 수 있습니다."
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "멤버십을 다시 이용하려면 Money account에 자금을 추가하세요."
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "멤버십이 $1에 갱신됩니다",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "자동으로 갱신됩니다."

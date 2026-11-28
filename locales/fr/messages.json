@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "MetaMask Transaction Shield"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "Ajoutez des fonds avant le $1",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "Le solde de votre compte Money est faible, votre abonnement risque donc d'expirer."
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "Ajoutez des fonds à votre compte Money pour le réactiver."
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "Votre abonnement sera renouvelé le $1",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "Nous le renouvellerons automatiquement."

@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "Shield Transaksi MetaMask"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "Tambahkan dana sebelum $1",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "Saldo Money account rendah, sehingga keanggotaan Anda mungkin akan berakhir."
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "Tambahkan dana ke Money account untuk mengaktifkannya kembali."
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "Keanggotaan Anda diperpanjang pada $1",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "Kami akan melakukan perpanjangan secara otomatis."

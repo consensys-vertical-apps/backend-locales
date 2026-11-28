@@ -176,10 +176,6 @@
   "pushNotificationShieldSubscriptionTitle": {
     "message": "Escudo de transacciones de MetaMask"
   },
-  "pushNotificationMembershipFundLowTitle": {
-    "message": "Agregar fondos a más tardar el $1",
-    "description": "$1 is the latest date by which the account needs to be funded."
-  },
   "pushNotificationMembershipFundLowDescription": {
     "message": "El saldo de tu Money Account es bajo, por lo que tu membresía podría vencer."
   },
@@ -200,10 +196,6 @@
   },
   "pushNotificationMembershipInactiveDescription": {
     "message": "Agrega fondos a tu Money Account para reactivarla."
-  },
-  "pushNotificationMembershipAnnualRenewNoticeTitle": {
-    "message": "Tu membresía se renueva el $1",
-    "description": "$1 is the annual renewal date."
   },
   "pushNotificationMembershipAnnualRenewNoticeDescription": {
     "message": "La renovaremos automáticamente."
